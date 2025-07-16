@@ -16,9 +16,9 @@ $lt-sandy: #F2D5BB;
 
 /* variables needed from Bootstrap */ 
 
-$white:    $midlt-seafoam;
-$black:    $dk-purplesky;
-$primary:       $dk-seaweed;
+$white:    $midlt-seafoam !default;
+$black:    $dk-purplesky !default;
+$primary:       $dk-seaweed !default;
 
 $min-contrast-ratio:   4.5 !default;
 $color-contrast-dark:      $black !default;
