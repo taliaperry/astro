@@ -4,11 +4,21 @@
     It is not complete Bootstrap theming! 
 */
 
+/* new colors added */
+$dk-purplesky: #230826;
+$middk-purplesky: #593B57;
+$dk-seaweed: #5C6D5F;
+$mid-seaweed: #8FA692;
+$midlt-seafoam: #AEBFBA;
+$lt-seafoam: #C9DCD6;
+$midlt-sandy: #F2CB89;
+$lt-sandy: #F2D5BB;
+
 /* variables needed from Bootstrap */ 
 
-$white:    #fff !default;
-$black:    #000 !default;
-$primary:       #0d6efd !default;
+$white:    $midlt-seafoam;
+$black:    $dk-purplesky;
+$primary:       $dk-seaweed;
 
 $min-contrast-ratio:   4.5 !default;
 $color-contrast-dark:      $black !default;
