@@ -18,10 +18,10 @@ a {
 }
 
 .btn-link {
-    color: $warning;
+    color: $danger;
 }
 .btn-link:hover {
-    color: $danger;
+    color: $warning;
 }
 
 .card.onlybrowse {
@@ -40,5 +40,5 @@ a {
 }
 
 .footinfo {
-    color: $info;
+    color: $success;
 }
