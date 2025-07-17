@@ -45,10 +45,10 @@ function makeCard(obj) {
     var card = '<div class="item col-lg-4 col-md-6 col-sm-12 mb-2"><div class="card">';
     // top image for photos
     if(imgSrc) {
-        card += '<a href="' + itemHref + '"> <img class="card-img-top lazyload" data-src="' + imgSrc + '" alt="Image of ' + obj.title + '"></a>';
+        card += '<div class="row g-0"><div class="col-md-4"><a href="' + itemHref + '"> <img class="card-img-top lazyload" data-src="' + imgSrc + '" alt="Image of ' + obj.title + '"></a></div></div>';
     }
     // title
-    card += '<div class="card-body text-center"> <h3 class="card-title h4"><a href="' + itemHref + '" class="text-dark">' + obj.title + '</a></h3>';
+    card += '<div class="col-md-8"><div class="card-body text-center"> <h3 class="card-title h4"><a href="' + itemHref + '" class="text-dark">' + obj.title + '</a></h3>';
     // thumb for non-photo items
     if(thumbSrc){
         card += '<p><a href="' + itemHref + '"><img class="lazyload w-50" data-src="' + thumbSrc + '" alt="Image of ' + obj.title + '"></a></p>';
@@ -94,7 +94,7 @@ function makeCard(obj) {
     // view button
     card += '<hr><a href="' + itemHref + '" class="btn btn-sm btn-light" title="link to ' + obj.title + '">View Full Record</a>';
     // close divs
-    card += '</div></div></div>';
+    card += '</div></div></div></div>';
     // send back big string
     return card;
 }
