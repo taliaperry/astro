@@ -20,6 +20,9 @@ a {
 .btn-link {
     color: $warning;
 }
+.btn-link:hover {
+    color: $danger;
+}
 
 .card {
     background-color: $light;
@@ -27,5 +30,9 @@ a {
     background-clip: border-box;
     border-radius: 0px;
     padding: 10px;
-    border-top: 1px solid $info;
+    border: 0;
+}
+
+.card-img, .card-img-top {
+    border-radius: 0;
 }
