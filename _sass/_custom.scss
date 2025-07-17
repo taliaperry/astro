@@ -28,8 +28,10 @@ a {
     background-color: $light;
     background-image: linear-gradient(180deg, $info, $light);
     background-clip: border-box;
-    border-radius: 0px;
-    padding: 10px;
+}
+
+.card {
+    border-radius: 0;
     border: 0;
 }
 
