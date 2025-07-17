@@ -40,7 +40,7 @@ function makeCard(obj) {
         card += '<div class="row no-gutters"><div class="col-sm-5 m-auto"><a href="' + itemHref + '"> <img class="card-img-top lazyload" data-src="' + imgSrc + '" alt="Image of ' + obj.title + '"></a></div>';
     }
     // title
-    card += '<div class="col-sm-7"><div class="card-body text-center"> <h3 class="card-title h4"><a href="' + itemHref + '" class="text-dark">' + obj.title + '</a></h3>';
+    card += '<div class="col-sm-7"><div class="card-body text-center"> <h3 class="card-title h4"><a href="' + itemHref + '" class="text-dark">' + obj.title  + obj.cmacno + '</a></h3>';
     // thumb for non-photo items
     if(thumbSrc){
         card += '<p><a href="' + itemHref + '"><img class="lazyload w-50" data-src="' + thumbSrc + '" alt="Image of ' + obj.title + '"></a></p>';
