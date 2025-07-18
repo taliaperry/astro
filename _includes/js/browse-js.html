@@ -39,7 +39,7 @@ function makeCard(obj) {
     card += '<div class="card-body text-center"> <h3 class="card-title h4"><a href="' + itemHref + '" class="text-dark">' + obj.cmacno + ' - ' + obj.title + '</a></h3>';
     // top image for photos
     if(imgSrc) {
-        card += '<div class="row no-gutters py-1"><div class="col-sm-5 m-auto"><a href="' + itemHref + '"> <img class="card-img-top lazyload" data-src="' + imgSrc + '" alt="Image of ' + obj.title + '"></a></div><div class="col-sm-7">';
+        card += '<div class="row no-gutters pt-2"><div class="col-sm-5 m-auto"><a href="' + itemHref + '"> <img class="card-img-top lazyload" data-src="' + imgSrc + '" alt="Image of ' + obj.title + '"></a></div><div class="col-sm-7">';
     }
     // thumb for non-photo items
     if(thumbSrc){
