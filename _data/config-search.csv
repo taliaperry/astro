@@ -1,7 +1,10 @@
 field,index,display
 title,true,true
-date,true,true
-creator,true,false
-description,true,true
-subject,true,true
-location,true,false
+datedisplay,true,true
+nationality,true,true
+watersstimsontype,true,true
+maker,true,true
+shipwreckname,true,false
+knownlocationpublic,true,false
+marksdescription,true,false
+note,true,false
