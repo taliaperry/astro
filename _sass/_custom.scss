@@ -36,15 +36,21 @@ a {
     border: 0;
 }
 
+.card-title.h4 {
+    font-family: ella-brutalist, sans-serif;
+    font-weight: 400;
+}
+
 .card-img, .card-img-top {
     border-radius: 0;
 }
 
-.footinfo {
-    color: $success;
+@media (max-width: 576px) {
+  .card-img, .card-img-top {
+    width: 50%;
+}
 }
 
-.card-title.h4 {
-    font-family: ella-brutalist, sans-serif;
-    font-weight: 400;
+.footinfo {
+    color: $success;
 }
