@@ -4,6 +4,7 @@
 */
 
 header {
+    padding-top: 4rem;
     background-color: $dark;
     }
 
@@ -23,7 +24,7 @@ a.h1big:hover {
 nav.navbar {
     padding-bottom: 2rem;
     padding-bottom: 8rem;
-    background: linear-gradient(180deg, $dark, 4rem, $light);}
+    background: linear-gradient(180deg, $dark, 10rem, $light);}
 
 a {
     color: $success; }
