@@ -3,18 +3,22 @@
     This allows you to override any CollectionBuilder or Bootstrap CSS without modifying the base theme files directly.
 */
 
-.otherhead {
+.otherhead.container {
     background-color: $dark;
-    color: $danger;}
+    }
 
-h1 {
+a.h1big {
     font-family: ella-brutalist, sans-serif;
     font-weight: 400;
     color: $warning;}
 
+a.h1big:hover {
+    color: $danger;}
+
 .h1sub {
     font-family: fastpen, sans-serif;
-    font-weight: 400;}
+    font-weight: 400;
+    color: $danger;}
 
 a {
     color: $success; }
