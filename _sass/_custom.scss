@@ -47,12 +47,12 @@ a {
 
 .card-img, .card-img-top {
     border-radius: 0;
-    filter: drop-shadow(2px 2px 4px $dark);
+    filter: drop-shadow(2px 2px 4px #806B49);
 }
 
 .card-img:active, .card-img-top:active {
     filter: none;
-    transition: filter 0.5s ease-in;
+    transition: filter 0.25s ease-in;
 }
 
 @media (max-width: 576px) {
