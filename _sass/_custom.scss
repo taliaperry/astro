@@ -26,8 +26,10 @@ nav.navbar {
     padding-bottom: 8rem;
     background: linear-gradient(180deg, $dark, 10rem, $light);}
 
-.navbar-toggler-icon {
-    background-image: none;}
+.navbar-dark .navbar-toggler-icon {
+    background-image: none;
+    color:$danger;
+    border:none;}
 
 a {
     color: $success; }
