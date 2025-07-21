@@ -23,9 +23,7 @@ function displayItem(record, prev_id, next_id, compound_object) {
     /* add item title */
     var objectTitle = record.title;
     document.getElementById("bc-title").innerHTML = objectTitle;
-
-    /* get item format for item title */
-    document.getElementById("item-title").innerHTML = record.format.includes('record') ? objectTitle : objectTitle;
+    document.getElementById("item-title").innerHTML = objectTitle;
     
     /* add object */ 
     var format = "" + record.format;
