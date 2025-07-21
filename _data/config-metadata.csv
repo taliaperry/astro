@@ -14,7 +14,7 @@ nationality,Maker nationality,
 datedisplay,Date of production,
 datelostdisplay,Date object was lost,
 shipwreckname,Associated shipwreck,true,
-shipwreckdatedisplay,Date of shipwreck,
+shipwreckdatedisplay,,
 shipwreckdescription,,
 shipwreckurl,,,true
 datefounddisplay,Date object was found,
