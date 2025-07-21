@@ -98,11 +98,11 @@
         var itemHref = '{{ "/item.html" | relative_url }}?id=' + feature.properties.link;
         /* find object thumb based on format */
         var thumbSrc;
-        thumbSrc = '{{ "/assets/lib/icons/" | relative_url }}{{ icons.icon-default }}.svg';
+        thumbSrc = item.watersstimsontypeabrvicon;
         /* create popup content */
         var popupTemplate = '<h2 class="h4"><a class="text-dark" href="' + itemHref + '">' +
             feature.properties.title + '</a></h2><div class="text-center"><a href="' + itemHref + 
-            '" ><img class="card-img-top" src="' +  thumbSrc + '" alt="item thumbnail"></a></div><p>';
+            '" ><img class="map-thumb img-thumb" src="' +  thumbSrc + '" alt="item thumbnail"></a></div><p>';
         /* add metadata fields */
         {% for f in fields %}{% if f.display_name %}
         if (feature.properties[{{ f.field | jsonify }}]) {
