@@ -26,11 +26,7 @@ function displayItem(record, prev_id, next_id, compound_object) {
 
     /* get item format for item title */
     var itemFormat;
-    if (compound_object.length > 0) {
-        itemFormat = record.format.replace("_", " ").toUpperCase() + ' (' + compound_object.length + ' Items)';
-    } else if (record.format.includes("pdf")) {
-        itemFormat = "PDF";
-    } else if (record.format.includes("/")) {
+    if (record.format.includes("/")) {
         itemFormat = record.format.split("/")[0].toUpperCase();
     } else {
         itemFormat = record.format.replace("_", " ").toUpperCase();
