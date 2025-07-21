@@ -1,5 +1,5 @@
 field,display_name,search
-date,Date,true
-creator,Creator,true
-subject,Subjects,true
-location,Location,true
+watersstimsontype,,true
+datedisplay,,true
+nationalitycard,,true
+shipwreckname,Associated shipwreck,true
