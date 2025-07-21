@@ -1,5 +1,5 @@
 field,display_name,search
-watersstimsontype,,true
-datedisplay,,true
-nationalitycard,,true
+watersstimsontype,Waters/Stimson Type,true
+datedisplay,Date of production,true
+nationalitycard,Nationality of maker,true
 shipwreckname,Associated shipwreck,true
