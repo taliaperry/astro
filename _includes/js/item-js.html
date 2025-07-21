@@ -25,13 +25,6 @@ function displayItem(record, prev_id, next_id, compound_object) {
     document.getElementById("bc-title").innerHTML = objectTitle;
 
     /* get item format for item title */
-    var itemFormat;
-    if (record.format.includes("/")) {
-        itemFormat = record.format.split("/")[0].toUpperCase();
-    } else {
-        itemFormat = record.format.replace("_", " ").toUpperCase();
-    }
-    document.getElementById("item-format").innerHTML = itemFormat;
     document.getElementById("item-title").innerHTML = record.format.includes('record') ? objectTitle : objectTitle;
     
     /* add object */ 
