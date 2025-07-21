@@ -1,6 +1,4 @@
 field,display_name,browse_link,external_link
-cmacno,CMAC Number,
-nmmno,NMM Number,
 date,Date Created,
 watersstimsontype,Waters/Stimson Type,true,
 taxonomy,Taxonomy Description,
