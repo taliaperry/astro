@@ -81,6 +81,11 @@ h2#item-title {
     transition: filter 0.25s ease-in;
 }
 
+@media (min-width: 768px) {
+ #jumpbutton {
+    display: none;
+}
+}
 @media (max-width: 576px) {
   .card-img, .card-img-top {
     width: 50%;
