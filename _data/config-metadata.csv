@@ -23,7 +23,7 @@ datefounddisplay,Date object was found,
 knownlocationother,Contemporary location,
 knownlocationpublic,,true,
 knownlocationprivate,,
-knownlocationpublicurl,,true
+knownlocationpublicurl,,,true
 knownlocationpublicobject,Record in institutional collection,,true
 condition,Condition,true,
 fragments,,
