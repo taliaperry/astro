@@ -1,15 +1,31 @@
-field,display_name,browse_link,external_link
-title,Title,
-creator,Creator,
-date,Date Created,
-description,Description,
-subject,Subjects,true
-location,Location
-latitude,Latitude
-longitude,Longitude
-source,Source
-identifier,Source Identifier,,
-type,Type,
-format,Format,
-rights,Rights,
-rightsstatement,Rights Statement,,true
+field,dislay_name,browse_link,external_link
+cmacno,Center for Maritime Archaeology and Conservation (CMAC) Number,,
+nmmno,Stimson / National Maritime Museum (NMM) Number,,
+title,Astrolabe Name,,
+watersstimsontype,Waters/Stimson Type,TRUE,
+taxonomy,Taxonomy Description,,
+markscategories,Visible Marks,TRUE,
+diameter,"Size, Diameter (mm)",,
+thickness,"Size, Thickness (mm)",,
+weight,Weight (gr),,
+scale,Marked Scale,,
+makersign,Signed,,
+maker,Maker,,
+makerfamily,Associated family,TRUE,
+nationality,Maker nationality,,
+datedisplay,Date of production,,
+datelostdisplay,Date object was lost,,
+shipwreckname,Associated shipwreck,TRUE,
+shipwreckdatedisplay,Date of shipwreck,,
+shipwreckdescription,,,
+shipwreckurl,,,TRUE
+datefounddisplay,Date object was found,,
+knownlocationother,Contemporary location,,
+knownlocationpublic,,TRUE,
+knownlocationprivate,,,
+knownlocationpublicurl,Institution name,,TRUE
+knownlocationpublicobject,Record in institutional collection,,TRUE
+condition,Condition,TRUE,
+fragments,,,
+critiquesofauthenticity,Notes on authenticity,,
+referencespublic,Available bibliography,,
