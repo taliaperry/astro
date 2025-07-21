@@ -1,4 +1,11 @@
 field,display_name,browse_link,external_link
-cmacno,Center for Maritime Archaeology and Conservation (CMAC) Number,
-nmmno,Stimson / National Maritime Museum (NMM) Number,
+cmacno,CMAC Number,
+nmmno,NMM Number,
 date,Date Created,
+watersstimsontype,Waters/Stimson Type,true,
+taxonomy,Taxonomy Description,
+markscategories,Visible Marks,true,
+diameter,Diameter (mm),
+thickness,Thickness (mm),
+weight,Weight (gr),
+scale,Marked Scale,
