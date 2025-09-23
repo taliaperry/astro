@@ -10,7 +10,7 @@ scale,Marked Scale,true
 makersign,Signed,
 maker,Maker,true
 makerfamily,Associated family,true,
-nationality,Maker nationality,
+nationality,Maker nationality,true,
 datedisplay,Date of production,
 datelostdisplay,Date object was lost,
 shipwreckname,Associated shipwreck,true,
