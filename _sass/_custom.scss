@@ -81,6 +81,10 @@ h2#item-title {
     transition: filter 0.25s ease-in;
 }
 
+#item-metadata .fieldvalue {
+    font-size: .875rem;
+}
+
 @media (min-width: 768px) {
  #jumpbutton {
     display: none;
