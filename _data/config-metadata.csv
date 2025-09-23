@@ -6,9 +6,9 @@ markscategories,Visible Marks,true,
 diameter,Diameter (mm),
 thickness,Thickness (mm),
 weight,Weight (gr),
-scale,Marked Scale,
+scale,Marked Scale,true
 makersign,Signed,
-maker,Maker,
+maker,Maker,true
 makerfamily,Associated family,true,
 nationality,Maker nationality,
 datedisplay,Date of production,
