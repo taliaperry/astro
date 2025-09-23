@@ -72,7 +72,7 @@ function displayItem(record, prev_id, next_id, compound_object) {
             var browseLinks = "";
             for (var i = 0, len = topics.length; i < len; i++) {
                 if (topics[i] != "") {
-                    browseLinks += '<a class="btn btn-sm btn-secondary" href="{{ '/browse.html' | relative_url }}#' + encodeURIComponent(topics[i].trim()) + '">' + topics[i].trim() + '</a> ';
+                    browseLinks += '<a class="btn btn-sm btn-outline-secondary" href="{{ '/browse.html' | relative_url }}#' + encodeURIComponent(topics[i].trim()) + '">' + topics[i].trim() + '</a> ';
                 }
             }
             fields += '<dt class="field">{{ f.display_name }}</dt> <dd class="field-value">' + browseLinks + '</dd>';
