@@ -2,3 +2,4 @@ field,display_name,btn,hidden,sort_name
 datedisplay,,,,
 datesort,,,true,by date
 nationalitycard,,true,,
+markscategories,,true,true,,
