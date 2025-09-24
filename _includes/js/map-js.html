@@ -132,7 +132,8 @@
     /* function to add objects to map */
     function objectMarkers(feature,latlng) {
         var marker = L.marker(latlng, {alt: feature.properties.title});
-        {% if site.data.theme.map-cluster == true %}markers.addLayer(marker);{% endif %}
+        /* will this break anytihng if I comment out clusters?
+        {% if site.data.theme.map-cluster == true %}markers.addLayer(marker);{% endif %}  */
         return marker;
     }
 
