@@ -165,7 +165,7 @@
         var watersstimsontypeabrvicon = feature.properties.watersstimsontypeabrvicon;
         var selectedIcon = iconMap[watersstimsontypeabrvicon] || wsno;
          */
-        var marker = L.marker(latlng, {icon:selectedIcon}, {alt: feature.properties.title});
+        var marker = L.marker(latlng, WSAstroIcon, {alt: feature.properties.title});
         {% if site.data.theme.map-cluster == true %}markers.addLayer(marker);{% endif %}
         return marker;
     }
