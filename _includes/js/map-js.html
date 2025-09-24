@@ -130,8 +130,25 @@
         layer.bindPopup(popupTemplate);
     }
     /* function to add objects to map */
+    
     function objectMarkers(feature,latlng) {
-        var marker = L.marker(latlng, {alt: feature.properties.title});
+
+
+        // Icon options
+         var iconOptions = {
+            iconUrl: 'assets/map-icons/no.png',
+            iconSize: [30, 30]
+         }
+         // Creating a custom icon
+         var customIcon = L.icon(iconOptions);
+         
+         // Creating Marker Options
+         var markerOptions = {
+            icon: customIcon
+         }
+
+        
+        var marker = L.marker(latlng, markerOptions, {alt: feature.properties.title});
         {% if site.data.theme.map-cluster == true %}markers.addLayer(marker);{% endif %}
         return marker;
     }
