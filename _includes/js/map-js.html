@@ -134,12 +134,13 @@
 
     var WSAstroIcon = L.Icon.extend({
         options:{
+            iconUrl:      'assets/map-icons/no.png',
             iconSize:     [30, 30], // size of the icon
             iconAnchor:   [15, 15], // point of the icon which will correspond to marker's location
             popupAnchor:  [0, -15] // point from which the popup should open relative to the iconAnchor
         }
     });
-
+/* 
     var ws0 = new WSAstroIcon({iconUrl: 'assets/map-icons/0.png'}),
         ws1a = new WSAstroIcon({iconUrl: 'assets/map-icons/1a.png'}),
         ws1b = new WSAstroIcon({iconUrl: 'assets/map-icons/1b.png'}),
@@ -163,7 +164,7 @@
         
         var watersstimsontypeabrvicon = feature.properties.watersstimsontypeabrvicon;
         var selectedIcon = iconMap[watersstimsontypeabrvicon] || wsno;
-        
+         */
         var marker = L.marker(latlng, {icon:selectedIcon}, {alt: feature.properties.title});
         {% if site.data.theme.map-cluster == true %}markers.addLayer(marker);{% endif %}
         return marker;
