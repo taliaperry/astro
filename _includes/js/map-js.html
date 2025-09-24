@@ -131,41 +131,7 @@
     }
     /* function to add objects to map */
     function objectMarkers(feature,latlng) {
-
-    var WSAstroIcon = L.Icon.extend({
-        options:{
-            iconUrl:      'assets/map-icons/no.png',
-            iconSize:     [30, 30], // size of the icon
-            iconAnchor:   [15, 15], // point of the icon which will correspond to marker's location
-            popupAnchor:  [0, -15] // point from which the popup should open relative to the iconAnchor
-        }
-    });
-/* 
-    var ws0 = new WSAstroIcon({iconUrl: 'assets/map-icons/0.png'}),
-        ws1a = new WSAstroIcon({iconUrl: 'assets/map-icons/1a.png'}),
-        ws1b = new WSAstroIcon({iconUrl: 'assets/map-icons/1b.png'}),
-        ws2a = new WSAstroIcon({iconUrl: 'assets/map-icons/2a.png'}),
-        ws2b = new WSAstroIcon({iconUrl: 'assets/map-icons/2b.png'}),
-        ws3 = new WSAstroIcon({iconUrl: 'assets/map-icons/3.png'}),
-        ws4 = new WSAstroIcon({iconUrl: 'assets/map-icons/4.png'}),
-        ws5 = new WSAstroIcon({iconUrl: 'assets/map-icons/5.png'}),
-        wsno = new WSAstroIcon({iconUrl: 'assets/map-icons/no.png'})
-
-    var iconMap = {
-        "0.svg": ws0,
-        "1a.svg": ws1a,
-        "1b.svg": ws1b,
-        "2a.svg": ws2a,
-        "2b.svg": ws2b,
-        "3.svg": ws3,
-        "4.svg": ws4,
-        "5.svg": ws5,
-        "no.svg": wsno
-        
-        var watersstimsontypeabrvicon = feature.properties.watersstimsontypeabrvicon;
-        var selectedIcon = iconMap[watersstimsontypeabrvicon] || wsno;
-         */
-        var marker = L.marker(latlng, WSAstroIcon, {alt: feature.properties.title});
+        var marker = L.marker(latlng, {alt: feature.properties.title});
         {% if site.data.theme.map-cluster == true %}markers.addLayer(marker);{% endif %}
         return marker;
     }
