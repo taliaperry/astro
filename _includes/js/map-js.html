@@ -69,15 +69,16 @@
     {% if site.data.theme.map-cluster == true %}
     /* create cluster group */
     var markers = L.markerClusterGroup({ 
-        maxClusterRadius: {{ site.data.theme.map-cluster-radius | default: 15 }}, 
+        maxClusterRadius: 50, 
         singleMarkerMode: false,
+        spiderLegPolylineOptions: { weight: 1.5, color: '#fff', opacity: 0.5 }
         iconCreateFunction: function(cluster) {
             /* custom icon function, tweak default to add more alt text */
             var childCount = cluster.getChildCount();
             var csize;
             if (childCount < 5) {
                 csize = 'small';
-            } else if (childCount < 20) {
+            } else if (childCount < 10) {
                 csize = 'medium';
             } else {
                 csize = 'large';
