@@ -72,7 +72,8 @@
 var shipIcon = L.icon({
     iconUrl: 'assets/map-icons/shipwreck.png',
     iconSize:     [50, 50],
-    popupAnchor:  [0, -25]
+    iconAnchor:   [25, 50],
+    popupAnchor:  [0, -50]
 });
     L.marker([32.737843,129.81948], {icon: shipIcon}).addTo(map).bindPopup("Test manual popup.");
     
