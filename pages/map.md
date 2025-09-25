@@ -6,4 +6,3 @@ permalink: /map.html
 # do not add content to this file
 ---
 
-Test add content, where does it go?
