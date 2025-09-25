@@ -95,11 +95,9 @@
         feature.layer = layer;{% endif %}
         /* calculate item link */
         var itemHref = '{{ "/item.html" | relative_url }}?id=' + feature.properties.link;
-        /* find object thumb based on format */
+        /* find object thumb based on WStype */
         var thumbSrc;
-        if (feature.properties.youtube) {
-            thumbSrc = 'https://img.youtube.com/vi/' +  feature.properties.youtube + '/default.jpg';
-        } else if (feature.properties.format && feature.properties.format.includes("image")) {
+        if (feature.properties.format && feature.properties.format.includes("image")) {
             thumbSrc = feature.properties.filename;
         } else if (feature.properties.format && feature.properties.format.includes("audio")) {
             thumbSrc = '{{ "/assets/lib/icons/" | relative_url }}{{ icons.icon-audio }}.svg';
