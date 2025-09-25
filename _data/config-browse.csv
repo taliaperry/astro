@@ -1,4 +1,5 @@
 field,display_name,btn,hidden,sort_name
+cmacno,,,true,by CMAC number
 datedisplay,,,,
 datesort,,,true,by date
 nationalitycard,,true,,
