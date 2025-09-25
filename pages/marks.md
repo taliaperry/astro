@@ -1,14 +1,8 @@
 ---
-title: Subjects
+title: Marks
 layout: cloud
 permalink: /marks.html
 cloud-fields: markscategories
-cloud-min: 1
-cloud-stopwords: 
-# Default subject page is configured in "_data/theme.yml"
-# leave cloud-fields as "site.data.theme.subjects-fields"
-# a cloud visualization will be added below the content in this file
-cloud-fields: site.data.theme.subjects-fields
 ---
 
 ## Visible Marks on Astrolabes
