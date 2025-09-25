@@ -10,7 +10,8 @@
 	background-color: transparent;
 	}
 .marker-cluster-medium div {
-	background-color: #a7836f;
+	background-color: ##8d6b67;
+	color: #fff;
 	}
 
 .marker-cluster-large {
@@ -33,7 +34,8 @@
 	background-color: transparent;
 	}
 .leaflet-oldie .marker-cluster-medium div {
-	background-color: #a7836f;
+	background-color: ##8d6b67;
+	color: #fff;
 	}
 
 .leaflet-oldie .marker-cluster-large {
