@@ -71,12 +71,12 @@ h2#item-title {
     font-weight: 400;
 } 
 
-.card-img, .card-img-top {
+.card-img, .card-img-top, .map-thumb {
     border-radius: 0;
     filter: drop-shadow(2px 2px 4px #806B49);
 }
 
-.card-img:active, .card-img-top:active {
+.card-img:active, .card-img-top:active, .map-thumb:active {
     filter: none;
     transition: filter 0.25s ease-in;
 }
