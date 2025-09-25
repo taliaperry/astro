@@ -67,6 +67,17 @@
     map.addControl(new L.Control.Fullscreen());
 
     {% if site.data.theme.map-cluster == true %}
+
+    /* add a single point manually */
+var shipIcon = L.icon({
+            iconUrl: 'assets/map-icons/no.png',
+    iconSize:     [20, 20], // size of the icon
+    iconAnchor:   [22, 94], // point of the icon which will correspond to marker's location
+    shadowAnchor: [4, 62],  // the same for the shadow
+    popupAnchor:  [0, -10] // point from which the popup should open relative to the iconAnchor
+});
+    L.marker([40.4406,-79.9959], {icon: shipIcon}).addTo(map).bindPopup("Test manual popup.");
+    
     /* create cluster group */
     var markers = L.markerClusterGroup({ 
         maxClusterRadius: 50, 
@@ -117,7 +128,6 @@
     
     function objectMarkers(feature,latlng) {
 
-
         // Icon options
          var iconOptions = {
             iconUrl: 'assets/map-icons/0.png',
@@ -126,13 +136,10 @@
          }
          // Creating a custom icon
          var customIcon = L.icon(iconOptions);
-         
          // Creating Marker Options
          var markerOptions = {
             icon: customIcon
          }
-
-        
         var marker = L.marker(latlng, markerOptions, {alt: feature.properties.title});
         {% if site.data.theme.map-cluster == true %}markers.addLayer(marker);{% endif %}
         return marker;
