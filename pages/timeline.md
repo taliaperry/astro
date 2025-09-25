@@ -7,4 +7,4 @@ permalink: /timeline.html
 
 ## Timeline of Astrolabes
 
-Note: Dates as they appear in this timeline are approximate and for comparison only, based on associated shipwrecks, identified makers, or object morphology. In some cases, the objects themselves are marked with the year of their production. See item details for more information.
+Note: Dates as they appear in this timeline are approximate and for comparison only, typically based on associated shipwrecks or other archaeological evidence. In some cases, the objects themselves are marked with the year of their production. A number of objects in the collection remain undated and are not included in this visualization. See item details for more information.
