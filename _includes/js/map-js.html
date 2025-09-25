@@ -70,12 +70,12 @@
 
     /* add a single point manually */
 var shipIcon = L.icon({
-    iconUrl: 'assets/map-icons/shipwreck.png',
+    iconUrl: 'assets/map-icons/shipwreck50.png',
     iconSize:     [50, 50],
     iconAnchor:   [25, 50],
-    popupAnchor:  [0, -50]
+    popupAnchor:  [0, -25]
 });
-    L.marker([32.737843,129.81948], {icon: shipIcon}).addTo(map).bindPopup("Test manual popup.");
+    L.marker([32.737843,129.81948], {icon: shipIcon}).addTo(map).bindPopup('Test manual <a href="#">linky popup</a>.');
     
     /* create cluster group */
     var markers = L.markerClusterGroup({ 
