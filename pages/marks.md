@@ -3,6 +3,7 @@ title: Marks
 layout: cloud
 permalink: /marks.html
 cloud-fields: markscategories
+button: outline-secondary
 ---
 
 ## Visible Marks on Astrolabes
