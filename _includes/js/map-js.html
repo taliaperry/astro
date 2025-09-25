@@ -71,7 +71,7 @@
     var markers = L.markerClusterGroup({ 
         maxClusterRadius: 50, 
         singleMarkerMode: false,
-        spiderLegPolylineOptions: { weight: 1.5, color: '#fff', opacity: 0.5 }
+        spiderLegPolylineOptions: { weight: 1.5, color: '#fff', opacity: 0.5 },
         iconCreateFunction: function(cluster) {
             /* custom icon function, tweak default to add more alt text */
             var childCount = cluster.getChildCount();
