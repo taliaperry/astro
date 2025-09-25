@@ -70,14 +70,14 @@
     /* create cluster group */
     var markers = L.markerClusterGroup({ 
         maxClusterRadius: {{ site.data.theme.map-cluster-radius | default: 15 }}, 
-        singleMarkerMode: true,
+        singleMarkerMode: false,
         iconCreateFunction: function(cluster) {
             /* custom icon function, tweak default to add more alt text */
             var childCount = cluster.getChildCount();
             var csize;
-            if (childCount < 10) {
+            if (childCount < 5) {
                 csize = 'small';
-            } else if (childCount < 100) {
+            } else if (childCount < 20) {
                 csize = 'medium';
             } else {
                 csize = 'large';
@@ -118,9 +118,9 @@
 
         // Icon options
          var iconOptions = {
-            iconUrl: 'assets/map-icons/no.png',
-            iconSize: [30, 30],
-            popupAnchor:  [0, -15]
+            iconUrl: 'assets/map-icons/0.png',
+            iconSize: [20, 20],
+            popupAnchor:  [0, -10]
          }
          // Creating a custom icon
          var customIcon = L.icon(iconOptions);
