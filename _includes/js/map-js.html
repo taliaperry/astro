@@ -76,34 +76,7 @@ var shipIcon = L.icon({
 });
     L.marker([32.737843,129.81948], {icon: shipIcon}).addTo(map).bindPopup('Test manual <a href="#">linky popup</a>.');
 
-    /* add a bunch via geoJSON */
-
-	var shipwreckSpot = {
-"type": "FeatureCollection",
-    "features": [
-        {
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-          -23.022721,
-          16.0174
-                ]
-            },
-            "type": "Feature",
-            "properties": {
-                "popupContent": "test!"
-            },
-            "id": 51
-        }
-    ]
-};			
-const shipwreckSpotlLayer = L.geoJSON(shipwreckSpot, {
-		pointToLayer(feature, latlng) {
-			return L.marker(latlng, {icon: shipIcon});
-		},
-		onEachFeature
-	}).addTo(map);
-
+	
     
     /* create cluster group */
     var markers = L.markerClusterGroup({ 
