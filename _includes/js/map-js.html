@@ -203,7 +203,9 @@ var SW1 = L.marker([-28.599444,16.3975], {icon: shipIcon}).addTo(map).bindPopup(
     });{% endif %}
 
 	/* layers toggle */
-	const layerControl = L.control.layers(overlays).addTo(map);
+	var overlayMaps = {
+    "Shipwrecks": shipwreckmarkers};
+	var layerControl = L.control.layers(overlayMaps).addTo(map);
 	layerControl.addOverlay(shipwreckmarkers, 'Shipwrecks');
 
     /* show popup if id in URL query */ 
