@@ -206,7 +206,9 @@ const SW1 = L.marker([-28.599444,16.3975], {icon: shipIcon}).addTo(map).bindPopu
     });{% endif %}
 
 	/* layers toggle */
-const layerControl = L.control.layers(overlays).addTo(map);
+var layeroptions = {
+	groupCheckboxes: true};
+	const layerControl = L.control.layers(overlays, layeroptions).addTo(map);
 
     /* show popup if id in URL query */ 
     if (markerFilter != "") {
