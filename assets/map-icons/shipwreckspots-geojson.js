@@ -11,8 +11,7 @@ var shipwreckSpot = {
             },
             "type": "Feature",
             "properties": {        "popupcontent": "Lady Burges",
-        "id": "79c293c7-c610-467b-93df-6344975d0bc6",
-        "name": "Lady Burges",
+        "id": 1
 
       },
 
@@ -27,8 +26,7 @@ var shipwreckSpot = {
             },
             "type": "Feature",
             "properties": {        "popupcontent": "Nuestra Señora de las Maravillas",
-        "id": "b404a1d7-3d63-4cd0-8f76-1c3206a1e405",
-        "name": "Nuestra Señora de las Maravillas",
+        "id": 2
       },
     },
     {
@@ -41,8 +39,7 @@ var shipwreckSpot = {
             },
             "type": "Feature",
             "properties": {        "popupcontent": "São Bento",
-        "id": "adcf4fbe-d7c1-4ca0-9d93-0cf93a907f33",
-        "name": "São Bento",
+        "id": 3
 
       },
     },
@@ -56,8 +53,7 @@ var shipwreckSpot = {
             },
             "type": "Feature",
             "properties": {        "popupcontent": "Francisco Padre",
-        "id": "6e5047b6-c4b8-4695-bfa5-0b0a9e79ca5a",
-        "name": "Francisco Padre",
+        "id": 4
 
       },
     },
@@ -71,8 +67,7 @@ var shipwreckSpot = {
             },
             "type": "Feature",
             "properties": {        "popupcontent": "Nassau",
-        "id": "60d3a644-b138-4467-bcc2-ef482e8073f8",
-        "name": "Nassau",
+        "id": 5
 
       },
     },
@@ -86,8 +81,7 @@ var shipwreckSpot = {
             },
             "type": "Feature",
             "properties": {        "popupcontent": "San Diego",
-        "id": "71acda93-c2f6-43ee-8018-1beaae1fb5a8",
-        "name": "San Diego",
+        "id": 6
 
       },
     },
@@ -101,8 +95,7 @@ var shipwreckSpot = {
             },
             "type": "Feature",
             "properties": {        "popupcontent": "San Martin",
-        "id": "d8fd022a-52b8-403b-990b-af1c55054dd8",
-        "name": "San Martin",
+        "id": 7
 
       },
     },
@@ -116,8 +109,7 @@ var shipwreckSpot = {
             },
             "type": "Feature",
             "properties": {        "popupcontent": "San Juan",
-        "id": "a90d5330-6319-460a-b8fb-581d028c877e",
-        "name": "San Juan",
+        "id": 8
 
       },
     },
@@ -131,8 +123,7 @@ var shipwreckSpot = {
             },
             "type": "Feature",
             "properties": {        "popupcontent": "Santiago",
-        "id": "60f92fb1-0143-4b01-9731-c0c75a9ae37b",
-        "name": "Santiago",
+        "id": 9
 
       },
     },
@@ -146,8 +137,7 @@ var shipwreckSpot = {
             },
             "type": "Feature",
             "properties": {        "popupcontent": "Rincón",
-        "id": "01f6ae50-be06-43a3-8c3e-3c951ab03fd4",
-        "name": "Rincón",
+        "id": 10
 
       },
     },
@@ -161,8 +151,7 @@ var shipwreckSpot = {
             },
             "type": "Feature",
             "properties": {        "popupcontent": "Santa Escolástica",
-        "id": "6c5eb2e7-d7ca-44a3-9e9c-3781345bda6f",
-        "name": "Santa Escolástica",
+        "id": 11
 
       },
     },
@@ -176,8 +165,7 @@ var shipwreckSpot = {
             },
             "type": "Feature",
             "properties": {        "popupcontent": "Vergulde Draeck",
-        "id": "6033044c-c5d6-449c-93d5-4a1527e921a5",
-        "name": "Vergulde Draeck",
+        "id": 12
 
       },
     },
@@ -191,8 +179,7 @@ var shipwreckSpot = {
             },
             "type": "Feature",
             "properties": {        "popupcontent": "Nossa Senhora da Graça",
-        "id": "6a26f433-1d3c-4366-8c24-c3b5599267c3",
-        "name": "Nossa Senhora da Graça",
+        "id": 13
 
       },
     },
@@ -206,8 +193,7 @@ var shipwreckSpot = {
             },
             "type": "Feature",
             "properties": {        "popupcontent": "Santa Margarita",
-        "id": "95484b28-3162-48eb-af9d-6b28f040bc04",
-        "name": "Santa Margarita",
+        "id": 14
 
       },
     },
@@ -221,8 +207,7 @@ var shipwreckSpot = {
             },
             "type": "Feature",
             "properties": {        "popupcontent": "Santíssimo Sacramento",
-        "id": "302e761c-17c7-49f3-aae7-4e80b9e2b5b0",
-        "name": "Santíssimo Sacramento",
+        "id": 15
 
       },
 
@@ -237,8 +222,7 @@ var shipwreckSpot = {
             },
             "type": "Feature",
             "properties": {        "popupcontent": "Nuestra Señora de la Concepción",
-        "id": "c147f8cb-90c5-41d4-9404-33a16fab41dc",
-        "name": "Nuestra Señora de la Concepción",
+        "id": 16
 
       },
 
@@ -253,8 +237,7 @@ var shipwreckSpot = {
             },
             "type": "Feature",
             "properties": {        "popupcontent": "Batavia",
-        "id": "9d8dd465-4680-4b23-87a4-bc6dfd4cb013",
-        "name": "Batavia",
+        "id": 17
 
       },
 
@@ -269,8 +252,7 @@ var shipwreckSpot = {
             },
             "type": "Feature",
             "properties": {        "popupcontent": "Buen Jesús y Nuestra Señora del Rosario",
-        "id": "0931fac4-00e1-4463-a0ef-cc612fb50d94",
-        "name": "Buen Jesús y Nuestra Señora del Rosario",
+        "id": 18
 
       },
 
@@ -285,8 +267,7 @@ var shipwreckSpot = {
             },
             "type": "Feature",
             "properties": {        "popupcontent": "Nuestra Señora de Atocha",
-        "id": "40967513-120a-41b4-b3a7-f14bd72f71bf",
-        "name": "Nuestra Señora de Atocha",
+        "id": 19
 
       },
 
@@ -301,8 +282,7 @@ var shipwreckSpot = {
             },
             "type": "Feature",
             "properties": {        "popupcontent": "Nossa Senhora dos Mártires",
-        "id": "b128ad67-a71e-41fb-b979-a08151a253fd",
-        "name": "Nossa Senhora dos Mártires",
+        "id": 20
 
       },
 
@@ -317,8 +297,7 @@ var shipwreckSpot = {
             },
             "type": "Feature",
             "properties": {        "popupcontent": "Banda",
-        "id": "a68ab69e-8e19-4614-a9ca-26dc94b64b13",
-        "name": "Banda",
+        "id": 21
 
       },
 
@@ -333,8 +312,7 @@ var shipwreckSpot = {
             },
             "type": "Feature",
             "properties": {        "popupcontent": "La Girona",
-        "id": "7d965008-5f69-41c9-ab16-f67b5e61a63f",
-        "name": "La Girona",
+        "id": 22
 
       },
 
@@ -349,8 +327,7 @@ var shipwreckSpot = {
             },
             "type": "Feature",
             "properties": {        "popupcontent": "Francisco Padre",
-        "id": "fbc16089-61d5-4ffc-9c20-fa0ce1193a9a",
-        "name": "Francisco Padre",
+        "id": 23
 
       },
 
@@ -365,8 +342,7 @@ var shipwreckSpot = {
             },
             "type": "Feature",
             "properties": {        "popupcontent": "Ines de Soto",
-        "id": "000ffa20-4b1a-4cdf-b509-6a726b2fbbd3",
-        "name": "Ines de Soto",
+        "id": 24
 
       },
 
@@ -381,8 +357,7 @@ var shipwreckSpot = {
             },
             "type": "Feature",
             "properties": {        "popupcontent": "Espiritu Santo",
-        "id": "aa585f4a-7758-4209-bfbf-dd3d48b7e34f",
-        "name": "Espiritu Santo",
+        "id": 25
 
       },
 
@@ -397,8 +372,7 @@ var shipwreckSpot = {
             },
             "type": "Feature",
             "properties": {        "popupcontent": "Bom Jesus",
-        "id": "631747b1-3508-49e6-b625-f427d728f681",
-        "name": "Bom Jesus",
+        "id": 26
 
       },
 
