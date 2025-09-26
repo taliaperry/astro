@@ -74,7 +74,9 @@ var shipIcon = L.icon({
     iconAnchor:   [25, 50],
     popupAnchor:  [0, -50]
 });
-var SW1 = L.marker([-28.599444,16.3975], {icon: shipIcon}).addTo(map).bindPopup('<a href="https://taliaperry.github.io/astro/browse.html#Bom%20Jesus">Bom Jesus</a> shipwreck site'),
+
+const shipwreckmarkers = L.layerGroup();
+const SW1 = L.marker([-28.599444,16.3975], {icon: shipIcon}).addTo(map).bindPopup('<a href="https://taliaperry.github.io/astro/browse.html#Bom%20Jesus">Bom Jesus</a> shipwreck site'),
 	SW2 = L.marker([27.459298,-97.235692], {icon: shipIcon}).addTo(map).bindPopup('<a href="https://taliaperry.github.io/astro/browse.html#Espiritu%20Santo">Espiritu Santo</a> shipwreck site'),
 	SW3 = L.marker([22.806276,-83.789083], {icon: shipIcon}).addTo(map).bindPopup('<a href="https://taliaperry.github.io/astro/browse.html#Ines%20de%20Soto">Ines de Soto</a> shipwreck site'),
 	SW4 = L.marker([22.2688,-84.698683], {icon: shipIcon}).addTo(map).bindPopup('<a href="https://taliaperry.github.io/astro/browse.html#Francisco%20Padre">Francisco Padre</a> shipwreck site'),
@@ -98,8 +100,9 @@ var SW1 = L.marker([-28.599444,16.3975], {icon: shipIcon}).addTo(map).bindPopup(
 	SW22 = L.marker([-31.3269,29.9692], {icon: shipIcon}).addTo(map).bindPopup('<a href="https://taliaperry.github.io/astro/browse.html#São%20Bento">São Bento</a> shipwreck site'),
 	SW23 = L.marker([26.9203338113932,-78.6666676752711], {icon: shipIcon}).addTo(map).bindPopup('<a href="https://taliaperry.github.io/astro/browse.html#Nuestra%20Señora%20de%20las%20Maravillas">Nuestra Señora de las Maravillas</a> shipwreck site'),
 	SW24 = L.marker([16.0174,-23.022721], {icon: shipIcon}).addTo(map).bindPopup('<a href="https://taliaperry.github.io/astro/browse.html#Lady%20Burges">Lady Burges</a> shipwreck site');
-	var shipwreckmarkers = L.layerGroup([SW1, SW2, SW3, SW4, SW5, SW6, SW7, SW8, SW9, SW10, SW11, SW12, SW13, SW14, SW15, SW16, SW17, SW18, SW19, SW20, SW21, SW22, SW23, SW24]);
-	
+	const overlays = {
+	'Shipwreck sites': shipwreckmarkers
+};
     
     /* create cluster group */
     var markers = L.markerClusterGroup({ 
@@ -203,10 +206,7 @@ var SW1 = L.marker([-28.599444,16.3975], {icon: shipIcon}).addTo(map).bindPopup(
     });{% endif %}
 
 	/* layers toggle */
-	var overlayMaps = {
-    "Shipwrecks": shipwreckmarkers};
-	var layerControl = L.control.layers(overlayMaps).addTo(map);
-	layerControl.addOverlay(shipwreckmarkers, 'Shipwrecks');
+const layerControl = L.control.layers(overlays).addTo(map);
 
     /* show popup if id in URL query */ 
     if (markerFilter != "") {
