@@ -10,7 +10,7 @@ var shipwreckSpot = {
 ]
             },
             "type": "Feature",
-            "properties": {        "popupcontent": "<a href=\"https://taliaperry.github.io/astro/browse.html#Lady%20Burges\">Lady Burges</a>",
+            "properties": {        "popupcontent": "Lady Burges",
         "id": "79c293c7-c610-467b-93df-6344975d0bc6",
         "name": "Lady Burges",
 
@@ -26,7 +26,7 @@ var shipwreckSpot = {
 ]
             },
             "type": "Feature",
-            "properties": {        "popupcontent": "<a href=\"https://taliaperry.github.io/astro/browse.html#Nuestra%20Señora%20de%20las%20Maravillas\">Nuestra Señora de las Maravillas</a>",
+            "properties": {        "popupcontent": "Nuestra Señora de las Maravillas",
         "id": "b404a1d7-3d63-4cd0-8f76-1c3206a1e405",
         "name": "Nuestra Señora de las Maravillas",
       },
@@ -40,7 +40,7 @@ var shipwreckSpot = {
 ]
             },
             "type": "Feature",
-            "properties": {        "popupcontent": "<a href=\"https://taliaperry.github.io/astro/browse.html#São%20Bento\">São Bento</a>",
+            "properties": {        "popupcontent": "São Bento",
         "id": "adcf4fbe-d7c1-4ca0-9d93-0cf93a907f33",
         "name": "São Bento",
 
@@ -55,7 +55,7 @@ var shipwreckSpot = {
 ]
             },
             "type": "Feature",
-            "properties": {        "popupcontent": "<a href=\"https://taliaperry.github.io/astro/browse.html#Francisco%20Padre\">Francisco Padre</a>",
+            "properties": {        "popupcontent": "Francisco Padre",
         "id": "6e5047b6-c4b8-4695-bfa5-0b0a9e79ca5a",
         "name": "Francisco Padre",
 
@@ -70,7 +70,7 @@ var shipwreckSpot = {
 ]
             },
             "type": "Feature",
-            "properties": {        "popupcontent": "<a href=\"https://taliaperry.github.io/astro/browse.html#Nassau\">Nassau</a>",
+            "properties": {        "popupcontent": "Nassau",
         "id": "60d3a644-b138-4467-bcc2-ef482e8073f8",
         "name": "Nassau",
 
@@ -85,7 +85,7 @@ var shipwreckSpot = {
 ]
             },
             "type": "Feature",
-            "properties": {        "popupcontent": "<a href=\"https://taliaperry.github.io/astro/browse.html#San%20Diego\">San Diego</a>",
+            "properties": {        "popupcontent": "San Diego",
         "id": "71acda93-c2f6-43ee-8018-1beaae1fb5a8",
         "name": "San Diego",
 
@@ -100,7 +100,7 @@ var shipwreckSpot = {
 ]
             },
             "type": "Feature",
-            "properties": {        "popupcontent": "<a href=\"https://taliaperry.github.io/astro/browse.html#San%20Martin\">San Martin</a>",
+            "properties": {        "popupcontent": "San Martin",
         "id": "d8fd022a-52b8-403b-990b-af1c55054dd8",
         "name": "San Martin",
 
@@ -115,7 +115,7 @@ var shipwreckSpot = {
 ]
             },
             "type": "Feature",
-            "properties": {        "popupcontent": "<a href=\"https://taliaperry.github.io/astro/browse.html#San%20Juan\">San Juan</a>",
+            "properties": {        "popupcontent": "San Juan",
         "id": "a90d5330-6319-460a-b8fb-581d028c877e",
         "name": "San Juan",
 
@@ -130,7 +130,7 @@ var shipwreckSpot = {
 ]
             },
             "type": "Feature",
-            "properties": {        "popupcontent": "<a href=\"https://taliaperry.github.io/astro/browse.html#Santiago\">Santiago</a>",
+            "properties": {        "popupcontent": "Santiago",
         "id": "60f92fb1-0143-4b01-9731-c0c75a9ae37b",
         "name": "Santiago",
 
@@ -145,7 +145,7 @@ var shipwreckSpot = {
 ]
             },
             "type": "Feature",
-            "properties": {        "popupcontent": "<a href=\"https://taliaperry.github.io/astro/browse.html#Rincón\">Rincón</a>",
+            "properties": {        "popupcontent": "Rincón",
         "id": "01f6ae50-be06-43a3-8c3e-3c951ab03fd4",
         "name": "Rincón",
 
@@ -160,7 +160,7 @@ var shipwreckSpot = {
 ]
             },
             "type": "Feature",
-            "properties": {        "popupcontent": "<a href=\"https://taliaperry.github.io/astro/browse.html#Santa%20Escolástica\">Santa Escolástica</a>",
+            "properties": {        "popupcontent": "Santa Escolástica",
         "id": "6c5eb2e7-d7ca-44a3-9e9c-3781345bda6f",
         "name": "Santa Escolástica",
 
@@ -175,7 +175,7 @@ var shipwreckSpot = {
 ]
             },
             "type": "Feature",
-            "properties": {        "popupcontent": "<a href=\"https://taliaperry.github.io/astro/browse.html#Vergulde%20Draeck\">Vergulde Draeck</a>",
+            "properties": {        "popupcontent": "Vergulde Draeck",
         "id": "6033044c-c5d6-449c-93d5-4a1527e921a5",
         "name": "Vergulde Draeck",
 
@@ -190,7 +190,7 @@ var shipwreckSpot = {
 ]
             },
             "type": "Feature",
-            "properties": {        "popupcontent": "<a href=\"https://taliaperry.github.io/astro/browse.html#Nossa%20Senhora%20da%20Graça\">Nossa Senhora da Graça</a>",
+            "properties": {        "popupcontent": "Nossa Senhora da Graça",
         "id": "6a26f433-1d3c-4366-8c24-c3b5599267c3",
         "name": "Nossa Senhora da Graça",
 
@@ -205,7 +205,7 @@ var shipwreckSpot = {
 ]
             },
             "type": "Feature",
-            "properties": {        "popupcontent": "<a href=\"https://taliaperry.github.io/astro/browse.html#Santa%20Margarita\">Santa Margarita</a>",
+            "properties": {        "popupcontent": "Santa Margarita",
         "id": "95484b28-3162-48eb-af9d-6b28f040bc04",
         "name": "Santa Margarita",
 
@@ -220,7 +220,7 @@ var shipwreckSpot = {
 ]
             },
             "type": "Feature",
-            "properties": {        "popupcontent": "<a href=\"https://taliaperry.github.io/astro/browse.html#Santíssimo%20Sacramento\">Santíssimo Sacramento</a>",
+            "properties": {        "popupcontent": "Santíssimo Sacramento",
         "id": "302e761c-17c7-49f3-aae7-4e80b9e2b5b0",
         "name": "Santíssimo Sacramento",
 
@@ -236,7 +236,7 @@ var shipwreckSpot = {
 ]
             },
             "type": "Feature",
-            "properties": {        "popupcontent": "<a href=\"https://taliaperry.github.io/astro/browse.html#Nuestra%20Señora%20de%20la%20Concepción\">Nuestra Señora de la Concepción</a>",
+            "properties": {        "popupcontent": "Nuestra Señora de la Concepción",
         "id": "c147f8cb-90c5-41d4-9404-33a16fab41dc",
         "name": "Nuestra Señora de la Concepción",
 
@@ -252,7 +252,7 @@ var shipwreckSpot = {
 ]
             },
             "type": "Feature",
-            "properties": {        "popupcontent": "<a href=\"https://taliaperry.github.io/astro/browse.html#Batavia\">Batavia</a>",
+            "properties": {        "popupcontent": "Batavia",
         "id": "9d8dd465-4680-4b23-87a4-bc6dfd4cb013",
         "name": "Batavia",
 
@@ -268,7 +268,7 @@ var shipwreckSpot = {
 ]
             },
             "type": "Feature",
-            "properties": {        "popupcontent": "<a href=\"https://taliaperry.github.io/astro/browse.html#Buen%20Jesús%20y%20Nuestra%20Señora%20del%20Rosario\">Buen Jesús y Nuestra Señora del Rosario</a>",
+            "properties": {        "popupcontent": "Buen Jesús y Nuestra Señora del Rosario",
         "id": "0931fac4-00e1-4463-a0ef-cc612fb50d94",
         "name": "Buen Jesús y Nuestra Señora del Rosario",
 
@@ -284,7 +284,7 @@ var shipwreckSpot = {
 ]
             },
             "type": "Feature",
-            "properties": {        "popupcontent": "<a href=\"https://taliaperry.github.io/astro/browse.html#Nuestra%20Señora%20de%20Atocha\">Nuestra Señora de Atocha</a>",
+            "properties": {        "popupcontent": "Nuestra Señora de Atocha",
         "id": "40967513-120a-41b4-b3a7-f14bd72f71bf",
         "name": "Nuestra Señora de Atocha",
 
@@ -300,7 +300,7 @@ var shipwreckSpot = {
 ]
             },
             "type": "Feature",
-            "properties": {        "popupcontent": "<a href=\"https://taliaperry.github.io/astro/browse.html#Nossa%20Senhora%20dos%20Mártires\">Nossa Senhora dos Mártires</a>",
+            "properties": {        "popupcontent": "Nossa Senhora dos Mártires",
         "id": "b128ad67-a71e-41fb-b979-a08151a253fd",
         "name": "Nossa Senhora dos Mártires",
 
@@ -316,7 +316,7 @@ var shipwreckSpot = {
 ]
             },
             "type": "Feature",
-            "properties": {        "popupcontent": "<a href=\"https://taliaperry.github.io/astro/browse.html#Banda\">Banda</a>",
+            "properties": {        "popupcontent": "Banda",
         "id": "a68ab69e-8e19-4614-a9ca-26dc94b64b13",
         "name": "Banda",
 
@@ -332,7 +332,7 @@ var shipwreckSpot = {
 ]
             },
             "type": "Feature",
-            "properties": {        "popupcontent": "<a href=\"https://taliaperry.github.io/astro/browse.html#La%20Girona\">La Girona</a>",
+            "properties": {        "popupcontent": "La Girona",
         "id": "7d965008-5f69-41c9-ab16-f67b5e61a63f",
         "name": "La Girona",
 
@@ -348,7 +348,7 @@ var shipwreckSpot = {
 ]
             },
             "type": "Feature",
-            "properties": {        "popupcontent": "<a href=\"https://taliaperry.github.io/astro/browse.html#Francisco%20Padre\">Francisco Padre</a>",
+            "properties": {        "popupcontent": "Francisco Padre",
         "id": "fbc16089-61d5-4ffc-9c20-fa0ce1193a9a",
         "name": "Francisco Padre",
 
@@ -364,7 +364,7 @@ var shipwreckSpot = {
 ]
             },
             "type": "Feature",
-            "properties": {        "popupcontent": "<a href=\"https://taliaperry.github.io/astro/browse.html#Ines%20de%20Soto\">Ines de Soto</a>",
+            "properties": {        "popupcontent": "Ines de Soto",
         "id": "000ffa20-4b1a-4cdf-b509-6a726b2fbbd3",
         "name": "Ines de Soto",
 
@@ -380,7 +380,7 @@ var shipwreckSpot = {
 ]
             },
             "type": "Feature",
-            "properties": {        "popupcontent": "<a href=\"https://taliaperry.github.io/astro/browse.html#Espiritu%20Santo\">Espiritu Santo</a>",
+            "properties": {        "popupcontent": "Espiritu Santo",
         "id": "aa585f4a-7758-4209-bfbf-dd3d48b7e34f",
         "name": "Espiritu Santo",
 
@@ -396,7 +396,7 @@ var shipwreckSpot = {
 ]
             },
             "type": "Feature",
-            "properties": {        "popupcontent": "<a href=\"https://taliaperry.github.io/astro/browse.html#Bom%20Jesus\">Bom Jesus</a>",
+            "properties": {        "popupcontent": "Bom Jesus",
         "id": "631747b1-3508-49e6-b625-f427d728f681",
         "name": "Bom Jesus",
 
