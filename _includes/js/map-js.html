@@ -202,6 +202,10 @@ var SW1 = L.marker([-28.599444,16.3975], {icon: shipIcon}).addTo(map).bindPopup(
         document.querySelector('input.search-input').value = "";
     });{% endif %}
 
+	/* layers toggle */
+	const layerControl = L.control.layers(overlays).addTo(map);
+	layerControl.addOverlay(shipwreckmarkers, 'Shipwrecks');
+
     /* show popup if id in URL query */ 
     if (markerFilter != "") {
         {% if site.data.theme.map-cluster == true %}
