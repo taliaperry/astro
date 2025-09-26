@@ -2,16 +2,15 @@ var shipwreckSpot = {
   "type": "FeatureCollection",
   "features": [
     {
-      "type": "Point",
-      "geometry": {
-        "type": "Point",
+ "geometry": {
+                "type": "Point",
         "coordinates": [
           -23.022721,
           16.0174
-        ]
-      },
-      "properties": {
-        "popupcontent": "<a href=\"https://taliaperry.github.io/astro/browse.html#Lady%20Burges\">Lady Burges</a>",
+]
+            },
+            "type": "Feature",
+            "properties": {        "popupcontent": "<a href=\"https://taliaperry.github.io/astro/browse.html#Lady%20Burges\">Lady Burges</a>",
         "id": "79c293c7-c610-467b-93df-6344975d0bc6",
         "name": "Lady Burges",
 
@@ -19,223 +18,209 @@ var shipwreckSpot = {
 
     },
     {
-      "type": "Point",
-      "geometry": {
-        "type": "Point",
+ "geometry": {
+                "type": "Point",
         "coordinates": [
           -78.66666768,
           26.92033381
-        ]
-      },
-      "properties": {
-        "popupcontent": "<a href=\"https://taliaperry.github.io/astro/browse.html#Nuestra%20Señora%20de%20las%20Maravillas\">Nuestra Señora de las Maravillas</a>",
+]
+            },
+            "type": "Feature",
+            "properties": {        "popupcontent": "<a href=\"https://taliaperry.github.io/astro/browse.html#Nuestra%20Señora%20de%20las%20Maravillas\">Nuestra Señora de las Maravillas</a>",
         "id": "b404a1d7-3d63-4cd0-8f76-1c3206a1e405",
         "name": "Nuestra Señora de las Maravillas",
       },
     },
     {
-      "type": "Point",
-      "geometry": {
-        "type": "Point",
+ "geometry": {
+                "type": "Point",
         "coordinates": [
           29.9692,
           -31.3269
-        ]
-      },
-      "properties": {
-        "popupcontent": "<a href=\"https://taliaperry.github.io/astro/browse.html#São%20Bento\">São Bento</a>",
+]
+            },
+            "type": "Feature",
+            "properties": {        "popupcontent": "<a href=\"https://taliaperry.github.io/astro/browse.html#São%20Bento\">São Bento</a>",
         "id": "adcf4fbe-d7c1-4ca0-9d93-0cf93a907f33",
         "name": "São Bento",
 
       },
     },
     {
-      "type": "Point",
-      "geometry": {
-        "type": "Point",
+ "geometry": {
+                "type": "Point",
         "coordinates": [
           -84.698683,
           22.2688
-        ]
-      },
-      "properties": {
-        "popupcontent": "<a href=\"https://taliaperry.github.io/astro/browse.html#Francisco%20Padre\">Francisco Padre</a>",
+]
+            },
+            "type": "Feature",
+            "properties": {        "popupcontent": "<a href=\"https://taliaperry.github.io/astro/browse.html#Francisco%20Padre\">Francisco Padre</a>",
         "id": "6e5047b6-c4b8-4695-bfa5-0b0a9e79ca5a",
         "name": "Francisco Padre",
 
       },
     },
     {
-      "type": "Point",
-      "geometry": {
-        "type": "Point",
+ "geometry": {
+                "type": "Point",
         "coordinates": [
           101.8413752,
           2.399112141
-        ]
-      },
-      "properties": {
-        "popupcontent": "<a href=\"https://taliaperry.github.io/astro/browse.html#Nassau\">Nassau</a>",
+]
+            },
+            "type": "Feature",
+            "properties": {        "popupcontent": "<a href=\"https://taliaperry.github.io/astro/browse.html#Nassau\">Nassau</a>",
         "id": "60d3a644-b138-4467-bcc2-ef482e8073f8",
         "name": "Nassau",
 
       },
     },
     {
-      "type": "Point",
-      "geometry": {
-        "type": "Point",
+ "geometry": {
+                "type": "Point",
         "coordinates": [
           120.4989392,
           14.070579
-        ]
-      },
-      "properties": {
-        "popupcontent": "<a href=\"https://taliaperry.github.io/astro/browse.html#San%20Diego\">San Diego</a>",
+]
+            },
+            "type": "Feature",
+            "properties": {        "popupcontent": "<a href=\"https://taliaperry.github.io/astro/browse.html#San%20Diego\">San Diego</a>",
         "id": "71acda93-c2f6-43ee-8018-1beaae1fb5a8",
         "name": "San Diego",
 
       },
     },
     {
-      "type": "Point",
-      "geometry": {
-        "type": "Point",
+ "geometry": {
+                "type": "Point",
         "coordinates": [
           -80.443125,
           27.857706
-        ]
-      },
-      "properties": {
-        "popupcontent": "<a href=\"https://taliaperry.github.io/astro/browse.html#San%20Martin\">San Martin</a>",
+]
+            },
+            "type": "Feature",
+            "properties": {        "popupcontent": "<a href=\"https://taliaperry.github.io/astro/browse.html#San%20Martin\">San Martin</a>",
         "id": "d8fd022a-52b8-403b-990b-af1c55054dd8",
         "name": "San Martin",
 
       },
     },
     {
-      "type": "Point",
-      "geometry": {
-        "type": "Point",
+ "geometry": {
+                "type": "Point",
         "coordinates": [
           -56.42679497,
           51.72809593
-        ]
-      },
-      "properties": {
-        "popupcontent": "<a href=\"https://taliaperry.github.io/astro/browse.html#San%20Juan\">San Juan</a>",
+]
+            },
+            "type": "Feature",
+            "properties": {        "popupcontent": "<a href=\"https://taliaperry.github.io/astro/browse.html#San%20Juan\">San Juan</a>",
         "id": "a90d5330-6319-460a-b8fb-581d028c877e",
         "name": "San Juan",
 
       },
     },
     {
-      "type": "Point",
-      "geometry": {
-        "type": "Point",
+ "geometry": {
+                "type": "Point",
         "coordinates": [
           39.644197,
           -21.515578
-        ]
-      },
-      "properties": {
-        "popupcontent": "<a href=\"https://taliaperry.github.io/astro/browse.html#Santiago\">Santiago</a>",
+]
+            },
+            "type": "Feature",
+            "properties": {        "popupcontent": "<a href=\"https://taliaperry.github.io/astro/browse.html#Santiago\">Santiago</a>",
         "id": "60f92fb1-0143-4b01-9731-c0c75a9ae37b",
         "name": "Santiago",
 
       },
     },
     {
-      "type": "Point",
-      "geometry": {
-        "type": "Point",
+ "geometry": {
+                "type": "Point",
         "coordinates": [
           -67.296439,
           17.885674
-        ]
-      },
-      "properties": {
-        "popupcontent": "<a href=\"https://taliaperry.github.io/astro/browse.html#Rincón\">Rincón</a>",
+]
+            },
+            "type": "Feature",
+            "properties": {        "popupcontent": "<a href=\"https://taliaperry.github.io/astro/browse.html#Rincón\">Rincón</a>",
         "id": "01f6ae50-be06-43a3-8c3e-3c951ab03fd4",
         "name": "Rincón",
 
       },
     },
     {
-      "type": "Point",
-      "geometry": {
-        "type": "Point",
+ "geometry": {
+                "type": "Point",
         "coordinates": [
           -38.524923,
           -13.09375
-        ]
-      },
-      "properties": {
-        "popupcontent": "<a href=\"https://taliaperry.github.io/astro/browse.html#Santa%20Escolástica\">Santa Escolástica</a>",
+]
+            },
+            "type": "Feature",
+            "properties": {        "popupcontent": "<a href=\"https://taliaperry.github.io/astro/browse.html#Santa%20Escolástica\">Santa Escolástica</a>",
         "id": "6c5eb2e7-d7ca-44a3-9e9c-3781345bda6f",
         "name": "Santa Escolástica",
 
       },
     },
     {
-      "type": "Point",
-      "geometry": {
-        "type": "Point",
+ "geometry": {
+                "type": "Point",
         "coordinates": [
           115.407086,
           -31.224181
-        ]
-      },
-      "properties": {
-        "popupcontent": "<a href=\"https://taliaperry.github.io/astro/browse.html#Vergulde%20Draeck\">Vergulde Draeck</a>",
+]
+            },
+            "type": "Feature",
+            "properties": {        "popupcontent": "<a href=\"https://taliaperry.github.io/astro/browse.html#Vergulde%20Draeck\">Vergulde Draeck</a>",
         "id": "6033044c-c5d6-449c-93d5-4a1527e921a5",
         "name": "Vergulde Draeck",
 
       },
     },
     {
-      "type": "Point",
-      "geometry": {
-        "type": "Point",
+ "geometry": {
+                "type": "Point",
         "coordinates": [
           129.81948,
           32.737843
-        ]
-      },
-      "properties": {
-        "popupcontent": "<a href=\"https://taliaperry.github.io/astro/browse.html#Nossa%20Senhora%20da%20Graça\">Nossa Senhora da Graça</a>",
+]
+            },
+            "type": "Feature",
+            "properties": {        "popupcontent": "<a href=\"https://taliaperry.github.io/astro/browse.html#Nossa%20Senhora%20da%20Graça\">Nossa Senhora da Graça</a>",
         "id": "6a26f433-1d3c-4366-8c24-c3b5599267c3",
         "name": "Nossa Senhora da Graça",
 
       },
     },
     {
-      "type": "Point",
-      "geometry": {
-        "type": "Point",
+ "geometry": {
+                "type": "Point",
         "coordinates": [
           -82.844333,
           24.279333
-        ]
-      },
-      "properties": {
-        "popupcontent": "<a href=\"https://taliaperry.github.io/astro/browse.html#Santa%20Margarita\">Santa Margarita</a>",
+]
+            },
+            "type": "Feature",
+            "properties": {        "popupcontent": "<a href=\"https://taliaperry.github.io/astro/browse.html#Santa%20Margarita\">Santa Margarita</a>",
         "id": "95484b28-3162-48eb-af9d-6b28f040bc04",
         "name": "Santa Margarita",
 
       },
     },
     {
-      "type": "Point",
-      "geometry": {
-        "type": "Point",
+ "geometry": {
+                "type": "Point",
         "coordinates": [
           -38.499141,
           -13.042663
-        ]
-      },
-      "properties": {
-        "popupcontent": "<a href=\"https://taliaperry.github.io/astro/browse.html#Santíssimo%20Sacramento\">Santíssimo Sacramento</a>",
+]
+            },
+            "type": "Feature",
+            "properties": {        "popupcontent": "<a href=\"https://taliaperry.github.io/astro/browse.html#Santíssimo%20Sacramento\">Santíssimo Sacramento</a>",
         "id": "302e761c-17c7-49f3-aae7-4e80b9e2b5b0",
         "name": "Santíssimo Sacramento",
 
@@ -243,16 +228,15 @@ var shipwreckSpot = {
 
     },
     {
-      "type": "Point",
-      "geometry": {
-        "type": "Point",
+ "geometry": {
+                "type": "Point",
         "coordinates": [
           -70.677847,
           19.81309
-        ]
-      },
-      "properties": {
-        "popupcontent": "<a href=\"https://taliaperry.github.io/astro/browse.html#Nuestra%20Señora%20de%20la%20Concepción\">Nuestra Señora de la Concepción</a>",
+]
+            },
+            "type": "Feature",
+            "properties": {        "popupcontent": "<a href=\"https://taliaperry.github.io/astro/browse.html#Nuestra%20Señora%20de%20la%20Concepción\">Nuestra Señora de la Concepción</a>",
         "id": "c147f8cb-90c5-41d4-9404-33a16fab41dc",
         "name": "Nuestra Señora de la Concepción",
 
@@ -260,16 +244,15 @@ var shipwreckSpot = {
 
     },
     {
-      "type": "Point",
-      "geometry": {
-        "type": "Point",
+ "geometry": {
+                "type": "Point",
         "coordinates": [
           113.790482,
           -28.47475
-        ]
-      },
-      "properties": {
-        "popupcontent": "<a href=\"https://taliaperry.github.io/astro/browse.html#Batavia\">Batavia</a>",
+]
+            },
+            "type": "Feature",
+            "properties": {        "popupcontent": "<a href=\"https://taliaperry.github.io/astro/browse.html#Batavia\">Batavia</a>",
         "id": "9d8dd465-4680-4b23-87a4-bc6dfd4cb013",
         "name": "Batavia",
 
@@ -277,16 +260,15 @@ var shipwreckSpot = {
 
     },
     {
-      "type": "Point",
-      "geometry": {
-        "type": "Point",
+ "geometry": {
+                "type": "Point",
         "coordinates": [
           -82.844333,
           24.279333
-        ]
-      },
-      "properties": {
-        "popupcontent": "<a href=\"https://taliaperry.github.io/astro/browse.html#Buen%20Jesús%20y%20Nuestra%20Señora%20del%20Rosario\">Buen Jesús y Nuestra Señora del Rosario</a>",
+]
+            },
+            "type": "Feature",
+            "properties": {        "popupcontent": "<a href=\"https://taliaperry.github.io/astro/browse.html#Buen%20Jesús%20y%20Nuestra%20Señora%20del%20Rosario\">Buen Jesús y Nuestra Señora del Rosario</a>",
         "id": "0931fac4-00e1-4463-a0ef-cc612fb50d94",
         "name": "Buen Jesús y Nuestra Señora del Rosario",
 
@@ -294,16 +276,15 @@ var shipwreckSpot = {
 
     },
     {
-      "type": "Point",
-      "geometry": {
-        "type": "Point",
+ "geometry": {
+                "type": "Point",
         "coordinates": [
           -82.844333,
           24.279333
-        ]
-      },
-      "properties": {
-        "popupcontent": "<a href=\"https://taliaperry.github.io/astro/browse.html#Nuestra%20Señora%20de%20Atocha\">Nuestra Señora de Atocha</a>",
+]
+            },
+            "type": "Feature",
+            "properties": {        "popupcontent": "<a href=\"https://taliaperry.github.io/astro/browse.html#Nuestra%20Señora%20de%20Atocha\">Nuestra Señora de Atocha</a>",
         "id": "40967513-120a-41b4-b3a7-f14bd72f71bf",
         "name": "Nuestra Señora de Atocha",
 
@@ -311,16 +292,15 @@ var shipwreckSpot = {
 
     },
     {
-      "type": "Point",
-      "geometry": {
-        "type": "Point",
+ "geometry": {
+                "type": "Point",
         "coordinates": [
           -9.325653,
           38.672558
-        ]
-      },
-      "properties": {
-        "popupcontent": "<a href=\"https://taliaperry.github.io/astro/browse.html#Nossa%20Senhora%20dos%20Mártires\">Nossa Senhora dos Mártires</a>",
+]
+            },
+            "type": "Feature",
+            "properties": {        "popupcontent": "<a href=\"https://taliaperry.github.io/astro/browse.html#Nossa%20Senhora%20dos%20Mártires\">Nossa Senhora dos Mártires</a>",
         "id": "b128ad67-a71e-41fb-b979-a08151a253fd",
         "name": "Nossa Senhora dos Mártires",
 
@@ -328,16 +308,15 @@ var shipwreckSpot = {
 
     },
     {
-      "type": "Point",
-      "geometry": {
-        "type": "Point",
+ "geometry": {
+                "type": "Point",
         "coordinates": [
           57.463486,
           -20.143921
-        ]
-      },
-      "properties": {
-        "popupcontent": "<a href=\"https://taliaperry.github.io/astro/browse.html#Banda\">Banda</a>",
+]
+            },
+            "type": "Feature",
+            "properties": {        "popupcontent": "<a href=\"https://taliaperry.github.io/astro/browse.html#Banda\">Banda</a>",
         "id": "a68ab69e-8e19-4614-a9ca-26dc94b64b13",
         "name": "Banda",
 
@@ -345,16 +324,15 @@ var shipwreckSpot = {
 
     },
     {
-      "type": "Point",
-      "geometry": {
-        "type": "Point",
+ "geometry": {
+                "type": "Point",
         "coordinates": [
           -6.536840729,
           55.24515891
-        ]
-      },
-      "properties": {
-        "popupcontent": "<a href=\"https://taliaperry.github.io/astro/browse.html#La%20Girona\">La Girona</a>",
+]
+            },
+            "type": "Feature",
+            "properties": {        "popupcontent": "<a href=\"https://taliaperry.github.io/astro/browse.html#La%20Girona\">La Girona</a>",
         "id": "7d965008-5f69-41c9-ab16-f67b5e61a63f",
         "name": "La Girona",
 
@@ -362,16 +340,15 @@ var shipwreckSpot = {
 
     },
     {
-      "type": "Point",
-      "geometry": {
-        "type": "Point",
+ "geometry": {
+                "type": "Point",
         "coordinates": [
           -84.698683,
           22.2688
-        ]
-      },
-      "properties": {
-        "popupcontent": "<a href=\"https://taliaperry.github.io/astro/browse.html#Francisco%20Padre\">Francisco Padre</a>",
+]
+            },
+            "type": "Feature",
+            "properties": {        "popupcontent": "<a href=\"https://taliaperry.github.io/astro/browse.html#Francisco%20Padre\">Francisco Padre</a>",
         "id": "fbc16089-61d5-4ffc-9c20-fa0ce1193a9a",
         "name": "Francisco Padre",
 
@@ -379,16 +356,15 @@ var shipwreckSpot = {
 
     },
     {
-      "type": "Point",
-      "geometry": {
-        "type": "Point",
+ "geometry": {
+                "type": "Point",
         "coordinates": [
           -83.789083,
           22.806276
-        ]
-      },
-      "properties": {
-        "popupcontent": "<a href=\"https://taliaperry.github.io/astro/browse.html#Ines%20de%20Soto\">Ines de Soto</a>",
+]
+            },
+            "type": "Feature",
+            "properties": {        "popupcontent": "<a href=\"https://taliaperry.github.io/astro/browse.html#Ines%20de%20Soto\">Ines de Soto</a>",
         "id": "000ffa20-4b1a-4cdf-b509-6a726b2fbbd3",
         "name": "Ines de Soto",
 
@@ -396,16 +372,15 @@ var shipwreckSpot = {
 
     },
     {
-      "type": "Point",
-      "geometry": {
-        "type": "Point",
+ "geometry": {
+                "type": "Point",
         "coordinates": [
           -97.235692,
           27.459298
-        ]
-      },
-      "properties": {
-        "popupcontent": "<a href=\"https://taliaperry.github.io/astro/browse.html#Espiritu%20Santo\">Espiritu Santo</a>",
+]
+            },
+            "type": "Feature",
+            "properties": {        "popupcontent": "<a href=\"https://taliaperry.github.io/astro/browse.html#Espiritu%20Santo\">Espiritu Santo</a>",
         "id": "aa585f4a-7758-4209-bfbf-dd3d48b7e34f",
         "name": "Espiritu Santo",
 
@@ -413,16 +388,15 @@ var shipwreckSpot = {
 
     },
     {
-      "type": "Point",
-      "geometry": {
-        "type": "Point",
+ "geometry": {
+                "type": "Point",
         "coordinates": [
           16.3975,
           -28.599444
-        ]
-      },
-      "properties": {
-        "popupcontent": "<a href=\"https://taliaperry.github.io/astro/browse.html#Bom%20Jesus\">Bom Jesus</a>",
+]
+            },
+            "type": "Feature",
+            "properties": {        "popupcontent": "<a href=\"https://taliaperry.github.io/astro/browse.html#Bom%20Jesus\">Bom Jesus</a>",
         "id": "631747b1-3508-49e6-b625-f427d728f681",
         "name": "Bom Jesus",
 
