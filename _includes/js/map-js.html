@@ -65,8 +65,6 @@
     /* add fullscreen control */ 
     map.addControl(new L.Control.Fullscreen());
 
-    {% if site.data.theme.map-cluster == true %}
-
     /* add a single point manually */
 var shipIcon = L.icon({
     iconUrl: 'assets/map-icons/shipwreck50.png',
@@ -100,6 +98,7 @@ L.marker([26.9203338113932,-78.6666676752711], {icon: shipIcon}).addTo(map).bind
 L.marker([16.0174,-23.022721], {icon: shipIcon}).addTo(map).bindPopup('<a href="https://taliaperry.github.io/astro/browse.html#Lady%20Burges">Lady Burges</a> shipwreck site');
 	
     
+    {% if site.data.theme.map-cluster == true %}
     /* create cluster group */
     var markers = L.markerClusterGroup({ 
         maxClusterRadius: 50, 
