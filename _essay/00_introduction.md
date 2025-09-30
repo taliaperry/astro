@@ -1,0 +1,21 @@
+---
+title: How You Should Navigate By Shadows
+layout: essay
+permalink: /00_introduction.html
+byline: by Talia Perry
+---
+
+Having commandeered an enchanted vessel, Don Quixote tries to put the exasperated Sancho at ease as they putter down the River Elba:
+
+> *What dost thou want, unsatisfied in the very heart of abundance? Art thou, perchance, tramping barefoot over the Riphaean mountains, instead of being seated on a bench like an archduke on the tranquil stream of this pleasant river, from which in a short space we shall come out upon the broad sea? But we must have already emerged and gone seven or eight hundred leagues; and if I had here an astrolabe to take the altitude of the pole, I could tell thee how many we have traveled, though either I know little, or we have already crossed or shall shortly cross the equinoctial line which parts the two opposite poles midway.*
+>
+> -- Miguel de Cervantes Saavedra, <i>Don Quixote</i>
+
+He does, in fact, know little—they are still well within view of their port of origin, and his understanding of nautical navigation throughout the chapter is quite ill-informed, but he knows enough to lament the absence of the astrolabe. The world that Don Quixote inhabits is one of overlapping realities and fictions; though reimagined by his overzealous chivalry and an unwavering confidence in the fantastic, his actions play out in—and provoke response from—a realistic material world.{% sidenote 'One' 'And, as an early example of metafiction, the concept of reality is further muddled by Cervantes’s insistence that the tale is true, and that history itself is being altered by the action of his fictional characters.' %} 
+
+The misalignment between expectation and reality in navigation, captured comically by Cerevantes, is not limited to fiction on the Iberian peninsula. Don Quixote’s missing marine astrolabe was an instrument designed for the moment sailors crossed out of sight from shore, a new method of navigation no longer reliant upon the visual cues of a predictable coast for guidance. And yet, forces shaping the object’s production and regulation remained necessarily land-bound to the port cities of Lisbon and Seville. This restriction aligned the object’s design with the emergence of scholastic and theoretical work by state cosmographers. Its use, however, submitted the tool to the harsh physical reality of nautical operation. Over the long sixteenth century, these two worlds of knowledge shaping the object were often in conflict, but always entangled. This paper will follow the path of the astrolabe making its way to sea, from metal workshop to final inspection, in Spain and Portugal. Each stage was a potential point of contention, the power of beached pilots diminished but unyielding against the labyrinthine bureaucracy concocted by cosmographers. These two recurring characters push and pull at the nautical astrolabe: the cosmographer assigned to describe the world with his charts, maps, and formulae, and the pilot to trace the world with his own movement across oceans wide.
+
+The complexities of both Iberian “seaborne empires” have already been broadly contextualized by authors like C.R. Boxer (1991) and Pablo E. Pérez-Mallaína (1998). Recent scholarship has started to unpack institutional systems of knowledge-sharing and control, research by Alison Sandman (2008) and Antonio Sánchez (2016) grounded in documents from state archives. Building on this line of inquiry, the essay that follows intends to look at how remaining physical evidence reflects—or fails to reflect—contemporary written descriptions: of astrolabe designs specified in navigational treatises, of perceived aesthetics of astrolabes in shipwreck narratives, of bureaucratic management of astrolabes in official documents of state. The number of known surviving instruments has increased significantly since the formative works of Alan Stimson (1985) and David Waters (1966), with over one hundred objects now indexed by Filipe Castro and his team (2020). By taking a cross-section through this catalogue of extant objects, we might better understand how choices of material, form, and marking were impacted by both practical and theoretical constraints, by different ways of knowing and interacting with the material world.
+
+
+{% include essay/figure-full-page.html objectid="im-11" %}
