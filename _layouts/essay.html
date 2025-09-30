@@ -3,10 +3,11 @@ layout: default
 ---
 
 <div class="container">
-    <h1 class="display-4 essay-title">{{ page.title }} {% if page.byline %}<br><span class="fs-5 ms-5">{{ page.byline }}</span>{% endif %}</h1>
 
     <div class="tufte-content">
 
+    <h1>{{ page.title }} {% if page.byline %}<br><span class="fs-5 ms-5">{{ page.byline }}</span>{% endif %}</h1>
+        
         <article class="pt-0">   
             <section>
             {{ content }}
