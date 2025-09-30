@@ -1,6 +1,6 @@
 # Project Information
 
-See [about page](https://taliaperry.github.io/astro/about.html) for background information on the development of this project.
+See [about page](https://taliaperry.github.io/astro/about.html) for background information on the development of this project. This website's content is for educational purposes only.
 
 ## License
 
