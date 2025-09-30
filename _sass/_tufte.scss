@@ -194,7 +194,7 @@
     .sidenote-number:after,
     .sidenote:before {
         color: $danger;
-        background-color: $info;
+        text-shadow: 0 0 .25em $info;
         position: relative;
         vertical-align: baseline;
     }
