@@ -193,7 +193,8 @@
 
     .sidenote-number:after,
     .sidenote:before {
-        color: $success;
+        color: $danger;
+        background-color: $info;
         position: relative;
         vertical-align: baseline;
     }
