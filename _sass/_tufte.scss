@@ -194,12 +194,12 @@
     }
 
     .sidenote-number {
-        counter-increment: sidenote-counter;
-        font-family: chaparral-pro, serif;
+        counter-increment: sidenote-counter;\
     }
 
     .sidenote-number:after,
     .sidenote:before {
+        font-family: chaparral-pro, serif;
         color: $success;
         position: relative;
         vertical-align: baseline;
