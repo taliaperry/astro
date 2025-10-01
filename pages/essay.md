@@ -1,9 +1,9 @@
 ---
-title: How You Should Navigate By Shadows
+title: Unabridged Essay
 layout: essay
-permalink: /00_introduction.html
+permalink: /essay.html
 byline: by Talia Perry
-abstract: "Over the long sixteenth century, two entangled worlds of knowledge shaped the production of the Iberian mariner's astrolabe. This paper will follow the path of the astrolabe making its way to sea, from metal workshop to final inspection, in Spain and Portugal. At each stage, two recurring characters push and pull at the nautical astrolabe: the cosmographer assigned to describe the world with his charts, maps, and formulae, and the pilot to trace the world with his own movement across oceans wide. Existing scholarship has started to unpack institutional systems of knowledge-sharing and control, research by Alison Sandman (2008) and Antonio Sánchez (2016) grounded in documents from state archives. Building on this line of inquiry as well as the extensive object cataloging efforts of Filipe Castro and his team (2020), this paper looks at at the ways that remaining physical evidence reflects, or fails to reflect, historic written descriptions of the astrolabe (navigational treatises, shipwreck tales, official documents of state), to begin to understand how choices of material, form, and marking were impacted by both practical and theoretical constraints, by different ways of knowing and interacting with the material world."
+abstract: "Over the long sixteenth century, two entangled worlds of knowledge shaped the production of the Iberian mariner's astrolabe. This paper will follow the path of the astrolabe making its way to sea, from metal workshop to final inspection, in Spain and Portugal. At each stage, two recurring characters push and pull at the nautical astrolabe: the cosmographer assigned to describe the world with his charts, maps, and formulae, and the pilot to trace the world with his own movement across oceans wide. This paper looks at at the ways that remaining physical evidence reflects, or fails to reflect, historic written descriptions of the astrolabe (navigational treatises, shipwreck tales, official documents of state), to begin to understand how choices of material, form, and marking were impacted by both practical and theoretical constraints, by different ways of knowing and interacting with the material world."
 ---
 
 Having commandeered an enchanted vessel, Don Quixote tries to put the exasperated Sancho at ease as they putter down the River Elba:
