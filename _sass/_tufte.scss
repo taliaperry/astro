@@ -156,6 +156,7 @@
     }
 
     figcaption {
+        font-family: dinosaur, san-serif;
         float: right;
         clear: right;
         margin-top: 0;
@@ -174,6 +175,7 @@
     /* Sidenotes, margin notes, figures, captions */
     img {
         max-width: 100%;
+        font-family: dinosaur, san-serif;
     }
 
     .sidenote,
@@ -184,6 +186,7 @@
         width: 50%;
         margin-top: 0.3rem;
         margin-bottom: 0;
+        font-family: dinosaur, san-serif;
         font-size: 1.1rem;
         line-height: 1.3;
         vertical-align: baseline;
