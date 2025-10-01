@@ -20,28 +20,31 @@
         {% include essay/marginnote-image.html id="im-02" text="History of 1910 Forest Fires in Idaho and Western Montana." image="im-02"%}
 
 {% endcomment %}
-{% if include.objectid %}
-    {% assign i = include.objectid %}
+{%- assign figures = include.objectid | split: ";" %}
+{%- assign captions = include.caption | split: ";" %}
+{%- assign alts = include.alt | split: ";" -%}
+{%- assign links = include.link | split: ";" -%}
+    {% for i in figures %}
     {% if i contains "/" %}
-        {%- capture image_src -%}{{ include.objectid | relative_url }}{%- endcapture -%}
-        {%- capture text -%}{{ include.text }}{%- endcapture -%}
-        {%- capture image_alt -%}{{ include.alt }}{%- endcapture -%}
-        {%- capture image_link -%}{{ include.link | default: image_src }}{%- endcapture -%}
+        {%- capture image_src -%}{{ i | relative_url }}{%- endcapture -%}
+        {%- capture image_caption -%}{{ captions[forloop.index0] | default: src }}{%- endcapture -%}
+        {%- capture image_alt -%}{{ alts[forloop.index0] }}{%- endcapture -%}
+        {%- capture image_link -%}{{ links[forloop.index0] | default: image_src }}{%- endcapture -%}
     {% else %}
         {%- assign figure = site.data[site.metadata] | where: "objectid", i | first -%}
-        {%- capture image_link -%}{{ '/items/' | append: figure.objectid | append: '.html' | relative_url }}{% endcapture %}
-        {%- capture text -%}{{ include.text | default: figure.title }}{%- endcapture -%}
-        {%- capture image_alt -%}{{ include.alt | default: figure.title }}{%- endcapture -%}
-        {%- capture image_src -%}{{ figure.image_small | default: figure.image_thumb | relative_url }}{% endcapture %}
+        {%- capture image_link -%}{% if figure.parentid %}{{ figure.objectid | prepend: '#' | prepend: figure.parentid | prepend: '/item.html?id=' | relative_url }}{% else %}{{ figure.objectid | prepend: '/item.html?id=' | relative_url }}{% endif %}{% endcapture %}
+        {%- capture image_caption -%}{{ captions[forloop.index0] | default: figure.title }}{%- endcapture -%}
+        {%- capture image_alt -%}{{ alts[forloop.index0] | default: figure.title }}{%- endcapture -%}
+        {%- capture image_src -%}{% if figure.youtubeid %}{{ 'https://img.youtube.com/vi/' | append: figure.youtubeid | append: '/hqdefault.jpg' }}{% elsif figure.filename contains '/' %}{{ figure.filename | relative_url }}{% else %}{{ '/objects/' | append: figure.filename | relative_url }}{% endif %}{% endcapture %}
     {% endif %}
 {% endif %}
 <label for="{{ include.id | default: include.objectid | slugify }}" class="margin-toggle">&#8853;</label>
 <input type="checkbox" id="{{ include.id | default: include.objectid | slugify }}" class="margin-toggle">
 <span class="marginnote">
     {% if include.objectid %}<a href="{{ image_link | default: image_src }}" title="{{ image_alt | escape }}">
-        <img alt="{{ image_alt | default: text | escape }}" src="{{ image_src }}" {% if include.style %}style="{{ include.style }}"{% endif %} >
+        <img alt="{{ image_alt | default: image_caption | escape }}" src="{{ image_src }}" {% if include.style %}style="{{ include.style }}"{% endif %} >
     </a>
     <br>
-    <span class="pt-4 figure-caption text-center">{% if include.link %}<a href="{{ include.link }}" target="_blank" rel="noopener">{{ include.text }}</a>{% else %}{{ include.text }}{% endif %}</span>
+    <span class="pt-4 figure-caption text-center">{% if i contains "/" %}{{ image_caption }}{% else %}<a href="{{ image_link }}">{{ image_caption }}</a>{% endif %}</span>
     {% else %}{% if include.link %}<a href="{{ include.link }}" target="_blank" rel="noopener">{{ include.text }}</a>{% else %}{{ include.text }}{% endif %}{%- endif -%}
 </span>
