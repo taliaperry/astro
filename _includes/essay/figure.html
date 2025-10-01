@@ -1,6 +1,6 @@
 {% comment %}
 
-    Tufte css image inline with text block, title is in margin note 
+    Tufte css image inline with text block, title is in margin note (but reverts to full size image orientation in small screen)
 
     E.G. --> {% include essay/figure.html objectid="demo_001" %}
 
@@ -35,11 +35,10 @@
     {% endif %}
 
 <figure>
-    <label for="{{ include.objectid | slugify }}" class="margin-toggle">&#8853;</label>
-    <input type="checkbox" id="{{ include.objectid | slugify }}" class="margin-toggle"/>
-    {% unless include.caption == false %}<span class="marginnote">{% if i contains "/" %}{{ image_caption }}{% else %}<a href="{{ image_link }}">{{ image_caption }}</a>{% endif %}</span> {%- endunless -%} 
+    {% unless include.caption == false %}<span class="marginnote marginmodbefore">{% if i contains "/" %}{{ image_caption }}{% else %}<a href="{{ image_link }}">{{ image_caption }}</a>{% endif %}</span> {%- endunless -%} 
     <a href="{{ image_link | default: image_src}}" title="{{ image_alt | escape }}">
         <img class="figure-img img-fluid rounded lazyload" alt="{{ image_alt | default: image_caption | escape }}"  title="click to see item" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 3 2'%3E%3C/svg%3E" data-src="{{ image_src }}" >
     </a>
+        {% unless include.caption == false %}<span class="marginmodafter">{% if i contains "/" %}{{ image_caption }}{% else %}<a href="{{ image_link }}">{{ image_caption }}</a>{% endif %}</span> {%- endunless -%} 
 </figure>
 {% endfor %}
