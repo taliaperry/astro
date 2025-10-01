@@ -311,6 +311,11 @@
         height: 100%;
     }
 
+        
+        .marginmodafter {
+            display: none;
+        }
+    
     @media (max-width: 760px) {
         body {
             width: 84%;
@@ -363,7 +368,11 @@
         .marginnote {
             display: none;
         }
-
+        
+        .marginmodafter {
+            display: block;
+        }
+        
         .margin-toggle:checked + .sidenote,
         .margin-toggle:checked + .marginnote {
             display: block;
