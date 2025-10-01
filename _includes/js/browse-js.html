@@ -213,11 +213,7 @@ sortOptions.forEach((button) => {
     button.classList.add("active");
     sortFilter.innerHTML = display_name;
     // send to sort and filter
-    if (sort_type == 'reverse') {
-        sortingReverse(items, field);
-        filterItems(items, query);
-    }
-    else if (field != 'random') {
+    if (field != 'random') {
         sorting(items, field);
         filterItems(items, query);
     }
