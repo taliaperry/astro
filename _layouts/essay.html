@@ -4,6 +4,8 @@ layout: default
 
 <div class="container">
 
+    {% if page.abstract %} <p class="abstract">{ page.abstract }}</p>{% endif %}
+
     <div class="tufte-content">
 
     <h1>{{ page.title }} {% if page.byline %}<br><span class="fs-5 ms-5">{{ page.byline }}</span>{% endif %}</h1>
