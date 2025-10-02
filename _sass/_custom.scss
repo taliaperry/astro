@@ -3,6 +3,13 @@
     This allows you to override any CollectionBuilder or Bootstrap CSS without modifying the base theme files directly.
 */
 
+.inversecolorscheme {
+    color: $light;
+}
+
+a.inversecolorscheme {
+    color: $info; }
+
 header {
     padding-top: 4rem;
     background-color: $dark;
