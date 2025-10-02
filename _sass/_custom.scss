@@ -5,6 +5,7 @@
 
 .inversecolorscheme {
     color: $light;
+background-color:none;
 }
 
 .inversecolorscheme a {
@@ -23,7 +24,7 @@ text-decoration: none;}
   display: block;
   transform: translate(0.75rem, -3rem) skew(-60deg);
   content: "How You Should Navigate By Shadows";
-  color: #000000;
+  color: %success;
   position: relative;
   z-index: -1;
 }
