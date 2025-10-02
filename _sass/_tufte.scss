@@ -377,10 +377,11 @@
         .margin-toggle:checked + .marginnote {
             display: block;
             float: left;
-            left: 1rem;
+            /* testing deleteleft: 1rem; */
             clear: both;
             width: 95%;
-            margin: 1rem 2.5%;
+            margin-top: 1rem;
+            margin-bottom: 1rem;
             vertical-align: baseline;
             position: relative;
         }
