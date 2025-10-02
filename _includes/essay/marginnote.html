@@ -39,12 +39,12 @@
     {% endif %}
 <label for="{{ include.id | default: include.objectid | slugify }}" class="margin-toggle">&#8853;</label>
 <input type="checkbox" id="{{ include.id | default: include.objectid | slugify }}" class="margin-toggle">
-<div class="marginnote">
+<span class="marginnote">
     {% if include.objectid %}<a href="{{ image_link | default: image_src }}" title="{{ image_alt | escape }}">
         <img alt="{{ image_alt | default: image_caption | escape }}" src="{{ image_src }}" {% if include.style %}style="{{ include.style }}"{% endif %} >
     </a>
     <br>
-    <div class="figcaption">{% if i contains "/" %}{{ image_caption }}{% else %}<a href="{{ image_link }}">{{ image_caption }}</a>{% endif %}</div>
+    <span class="figcaption mt-1 mb-2">{% if i contains "/" %}{{ image_caption }}{% else %}<a href="{{ image_link }}">{{ image_caption }}</a>{% endif %}</span>
     {% else %}{% if include.link %}<a href="{{ include.link }}" target="_blank" rel="noopener">{{ include.text }}</a>{% else %}{{ include.text }}{% endif %}{%- endif -%}
-</div>
+</span>
 {% endfor %}
