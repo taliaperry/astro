@@ -379,7 +379,7 @@
         .margin-toggle:checked + .marginnote {
             display: block;
             float: left;
-            /* testing deleteleft: 1rem; */
+            left: 3rem;
             clear: both;
             width: 95%;
             margin: 1rem;
