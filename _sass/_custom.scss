@@ -19,12 +19,13 @@ text-decoration: none;}
   display: inline-block;
 }
 
-.shadow-letter:after {
+.shadow-letter:hover:after {
   display: block;
+  position: relative;
   transform: translate(0.5rem, -1.15rem) skew(-60deg);
   content: "How You Should Navigate By Shadows";
   color: #000000;
-  position: relative;
+z-index: -1;
 }
 
 
