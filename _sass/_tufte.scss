@@ -296,7 +296,7 @@
     label.margin-toggle:not(.sidenote-number) {
         display: none;
         color: $success;
-        font-variant-ligatures: ornaments;
+        font-feature-settings: "ornm";
     }
 
     .iframe-wrapper {
