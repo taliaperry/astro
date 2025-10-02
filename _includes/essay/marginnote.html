@@ -37,13 +37,12 @@
         {%- capture image_alt -%}{{ alts[forloop.index0] | default: figure.title }}{%- endcapture -%}
         {%- capture image_src -%}{% if figure.youtubeid %}{{ 'https://img.youtube.com/vi/' | append: figure.youtubeid | append: '/hqdefault.jpg' }}{% elsif figure.filename contains '/' %}{{ figure.filename | relative_url }}{% else %}{{ '/objects/' | append: figure.filename | relative_url }}{% endif %}{% endcapture %}
     {% endif %}
-<label for="{{ include.id | default: include.objectid | slugify }}" class="margin-toggle">&#8853;</label>
+<label for="{{ include.id | default: include.objectid | slugify }}" class="margin-toggle">&#2727;</label>
 <input type="checkbox" id="{{ include.id | default: include.objectid | slugify }}" class="margin-toggle">
 <span class="marginnote">
     {% if include.objectid %}<a href="{{ image_link | default: image_src }}" title="{{ image_alt | escape }}">
-     <img class="mb-4" alt="{{ image_alt | default: image_caption | escape }}" src="{{ image_src }}" {% if include.style %}style="{{ include.style }}"{% endif %} ></a>
+     <img class="mb-2" alt="{{ image_alt | default: image_caption | escape }}" src="{{ image_src }}" {% if include.style %}style="{{ include.style }}"{% endif %} ></a>
     <br>
-    <figcaption class="figcaption mt-1 mb-2">{% if i contains "/" %}{{ image_caption }}{% else %}<a href="{{ image_link }}">{{ image_caption }}</a>{% endif %}</span>
+    <span class="figcaption">{% if i contains "/" %}{{ image_caption }}{% else %}<a href="{{ image_link }}">{{ image_caption }}</a>{% endif %}</span>
     {% else %}{% if include.link %}<a href="{{ include.link }}" target="_blank" rel="noopener">{{ include.text }}</a>{% else %}{{ include.text }}{% endif %}{%- endif -%}
-</figcaption>
 {% endfor %}
