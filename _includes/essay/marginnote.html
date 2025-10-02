@@ -40,7 +40,7 @@
 <label for="{{ include.id | default: include.objectid | slugify }}" class="margin-toggle" aria-label="toggle margin note">&#116;</label>
 <input type="checkbox" id="{{ include.id | default: include.objectid | slugify }}" class="margin-toggle">
 <span class="marginnote">
-    {% if include.objectid %}<a href="{{ image_link | default: image_src }}" title="{{ image_alt | escape }}">
+    {% if include.objectid %}<a href="{{ image_link | default: image_src }}" title="click to see item">
      <img class="mb-3" alt="{{ image_alt | default: image_caption | escape }}" src="{{ image_src }}" {% if include.style %}style="{{ include.style }}"{% endif %} ></a>
     <br>
     <span class="figcaption">{% if i contains "/" %}{{ image_caption }}{% else %}<a href="{{ image_link }}">{{ image_caption }}</a>{% endif %}</span>
