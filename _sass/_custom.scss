@@ -7,7 +7,7 @@
     color: $light;
 }
 
-a.inversecolorscheme {
+.inversecolorscheme a {
     color: $info; }
 
 header {
@@ -21,7 +21,8 @@ header {
     color: $danger;}
 
 a.h1big:hover {
-    color: $warning;}
+    color: $warning;
+}
 
 .h1sub {
     font-family: fastpen, sans-serif;
