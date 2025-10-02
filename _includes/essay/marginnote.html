@@ -37,7 +37,7 @@
         {%- capture image_alt -%}{{ alts[forloop.index0] | default: figure.title }}{%- endcapture -%}
         {%- capture image_src -%}{% if figure.youtubeid %}{{ 'https://img.youtube.com/vi/' | append: figure.youtubeid | append: '/hqdefault.jpg' }}{% elsif figure.filename contains '/' %}{{ figure.filename | relative_url }}{% else %}{{ '/objects/' | append: figure.filename | relative_url }}{% endif %}{% endcapture %}
     {% endif %}
-<label for="{{ include.id | default: include.objectid | slugify }}" class="margin-toggle">&#0074;</label>
+<label for="{{ include.id | default: include.objectid | slugify }}" class="margin-toggle" aria-label="toggle margin note">&#0074;</label>
 <input type="checkbox" id="{{ include.id | default: include.objectid | slugify }}" class="margin-toggle">
 <span class="marginnote">
     {% if include.objectid %}<a href="{{ image_link | default: image_src }}" title="{{ image_alt | escape }}">
