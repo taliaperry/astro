@@ -30,7 +30,7 @@ text-decoration: none;}
 
 .shadow-letter:hover:after {
   display: block;
-  transform: translate(2rem, -3rem) scale(1, 1.5) skew(-60deg);
+  transform: scale(1, 1.5) translate(2rem, -3rem) skew(-60deg);
   content: "How You Should Navigate By Shadows";
   color: $success;
 -webkit-text-stroke: 0;
