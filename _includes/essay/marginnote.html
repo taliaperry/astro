@@ -44,7 +44,7 @@
         <img alt="{{ image_alt | default: image_caption | escape }}" src="{{ image_src }}" {% if include.style %}style="{{ include.style }}"{% endif %} >
     </a>
     <br>
-    <span class="pt-4 figure-caption text-center">{% if i contains "/" %}{{ image_caption }}{% else %}<a href="{{ image_link }}">{{ image_caption }}</a>{% endif %}</span>
+    <span class="figcaption">{% if i contains "/" %}{{ image_caption }}{% else %}<a href="{{ image_link }}">{{ image_caption }}</a>{% endif %}</span>
     {% else %}{% if include.link %}<a href="{{ include.link }}" target="_blank" rel="noopener">{{ include.text }}</a>{% else %}{{ include.text }}{% endif %}{%- endif -%}
 </span>
 {% endfor %}
