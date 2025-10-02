@@ -8,7 +8,13 @@
 }
 
 .inversecolorscheme a {
-    color: $info; }
+    color: $info; 
+text-decoration: underline;}
+
+.inversecolorscheme a:hover {
+    color: $light; 
+text-decoration: none;}
+
 
 header {
     padding-top: 4rem;
