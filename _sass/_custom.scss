@@ -10,7 +10,7 @@
     background-color:transparent;}
 
 .inversecolorscheme main {
- padding-top: 150px;
+ padding-top: 100px;
  min-height: 500px;}
 
 .inversecolorscheme main a, .inversecolorscheme footer a {
@@ -82,7 +82,7 @@ header {
   display: inline-block;
   text-decoration: none;
   position: relative;
-  z-index: 2;}
+  z-index: 5;}
 
 a.h1big:hover {
     color: $warning;
@@ -91,7 +91,8 @@ a.h1big:hover {
 @media (min-width: 992px) {
     a.h1big:hover {
 -webkit-text-stroke: 1px $danger;
--webkit-text-fill-color: transparent;}
+-webkit-text-fill-color: transparent;
+      z-index: 5;}
     a.h1big:hover:after {
   display: block;
   transform: scale(1, 1.5) translate(2rem, -2.375rem) skew(-60deg);
@@ -101,6 +102,8 @@ a.h1big:hover {
 -webkit-text-fill-color: $success;
   position: absolute;
   z-index: 1;
+        .inversecolorscheme main {
+ padding-top: 150px;}
 }
     }
 
