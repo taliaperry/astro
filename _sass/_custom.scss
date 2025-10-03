@@ -49,8 +49,13 @@ text-decoration: none;}
   position: relative;
   bottom: 0;
   left: 0;
-  background: #593b57;
+  background: $success;
     z-index: -2;
+    overflow: clip;
+}
+
+.ocean:after {
+  background: $success;
 }
 
 .wave {
