@@ -27,11 +27,12 @@ text-decoration: none;}
 .inversecolorscheme footer {
   background: $success;}
 
-.sun a {
+.sun {
     text-align: end;
     font-size: 4em;
     font-family: chaparral-pro, serif;
-    font-feature-settings: "ornm";
+    font-feature-settings: "ornm";}
+.sun a {
 color:$warning;
 text-decoration: none;}
 .sun a:hover {
