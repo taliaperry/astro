@@ -1,6 +1,6 @@
 ---
 title: Home
-layout: testhome
+layout: home
 ---
 
 <p class="firstonindex">The mariner's astrolabe, also known as the nautical astrolabe, is an instrument used for measuring the sun's altitude in order to determine the latitude of a ship at sea. Its utility was recognized by the late fifteenth century, and these objects (in their many forms) proved citical to navigation in the "Age of Discovery," particularly in their use by Iberian powers.</p>
