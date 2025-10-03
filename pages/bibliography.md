@@ -10,31 +10,31 @@ permalink: /bibliography.html
 
 <a name="almeida"></a>Almeida, Onésimo. “Chapter Four. Science During the Portuguese Maritime Discoveries: A Telling Case Between Experimenters and Theoreticians.” In <i>Science in the Spanish and Portuguese empires, 1500-1800</i>, edited by Daniela Bleichmar, Paula De Vos, Kristin Huffine, and Kevin Sheehan, 78–92. Stanford, CA: Stanford University Press, 2009. [Link to chapter](https://ebookcentral.proquest.com/lib/cm/detail.action?docID=618842).
 
-Arnold, J. Barto III and Robert S. Weddle. The Nautical Archaeology of Padre Island: The Spanish Shipwrecks of 1554. New York: Academic Press, 1978.
+<a name="arnold"></a>Arnold, J. Barto III and Robert S. Weddle. <i>The Nautical Archaeology of Padre Island: The Spanish Shipwrecks of 1554</i>. New York: Academic Press, 1978.
 
-Ash, Eric H. “20. Navigation Techniques and Practice in the Renaissance.” In The History of Cartography, Volume 3: Cartography in the European Renaissance, edited by David Woodward. Chicago, IL: University of Chicago Press, 2007. https://press.uchicago.edu/books/HOC/HOC_V3_Pt1/Volume3_Part1.html. 
+<a name="ash"></a>Ash, Eric H. “20. Navigation Techniques and Practice in the Renaissance.” In <i>The History of Cartography, Volume 3: Cartography in the European Renaissance</i>, edited by David Woodward. Chicago, IL: University of Chicago Press, 2007. [Link to chapter](https://press.uchicago.edu/books/HOC/HOC_V3_Pt1/Volume3_Part1.html). 
 
-Barba, Alvaro Alonso. “De los metales y cosas metalicas artificiales.” In Arte de los metales (1640). Lima, Peru: los Huérfanos, 1817. https://books.google.com/books?id=gDkwAAAAYAAJ
+<a name="barba"></a>Barba, Alvaro Alonso. “De los metales y cosas metalicas artificiales.” <i>In Arte de los metales</i> (1640). Lima, Peru: los Huérfanos, 1817. [Link to book](https://books.google.com/books?id=gDkwAAAAYAAJ).
 
-Barba, Alvaro Alonso. A Collection of Scarce and Valuable Treatises Upon Metals, Mines and Minerals (1640). Translated by the Earl of Sandwich [Edward Montagu] (1669). London: C. Jephson, 1738. https://www.google.com/books/edition/A_Collection_of_Scarce_and_Valuable_Trea/
+<a name="barba2"></a>Barba, Alvaro Alonso. <i>A Collection of Scarce and Valuable Treatises Upon Metals, Mines and Minerals</i> (1640). Translated by the Earl of Sandwich [Edward Montagu] (1669). London: C. Jephson, 1738. [Link to book](https://www.google.com/books/edition/A_Collection_of_Scarce_and_Valuable_Trea/).
 
-Barrera-Osorio, Antonio. Experiencing Nature: The Spanish American Empire and the Early Scientific Revolution. Austin, TX: University of Texas Press, 2006.
+<a name="barreraosorio"></a>Barrera-Osorio, Antonio. <i>Experiencing Nature: The Spanish American Empire and the Early Scientific Revolution</i>. Austin, TX: University of Texas Press, 2006.
 
-Bennett, Jim. “Early Modern Mathematical Instruments.” In The Best Writing on Mathematics 2013, edited by Mircea Pitici, 163–74. Princeton, NJ: Princeton University Press, 2014. http://www.jstor.org/stable/j.ctt4cgb74.20.
+<a name="bennett"></a>Bennett, Jim. “Early Modern Mathematical Instruments.” In <i>The Best Writing on Mathematics 2013</i>, edited by Mircea Pitici, 163–74. Princeton, NJ: Princeton University Press, 2014. [Link to chapter](http://www.jstor.org/stable/j.ctt4cgb74.20).
 
-Brading, D. A. [David] and Harry E. Cross. “Colonial Silver Mining: Mexico and Peru.” Hispanic American Historical Review 52, no. 4 (November 1972): 545–579. https://doi.org/10.1215/00182168-52.4.545
+<a name="brading"></a>Brading, D. A. [David] and Harry E. Cross. “Colonial Silver Mining: Mexico and Peru.” <i>Hispanic American Historical Review</i> 52, no. 4 (November 1972): 545–579. [Link to article](https://doi.org/10.1215/00182168-52.4.545).
 
-Brown,  Kendall W. “Casa de la Contratación.” In Iberia and the Americas: Culture, Politics, and History: A Multidisciplinary Encyclopedia, vol. 1, edited by J. Michael Francis, 179–181. Santa Barbara, CA: ABC-CLIO, 2006.
+<a name="brown"></a>Brown,  Kendall W. “Casa de la Contratación.” In <i>Iberia and the Americas: Culture, Politics, and History: A Multidisciplinary Encyclopedia</i>, vol. 1, edited by J. Michael Francis, 179–181. Santa Barbara, CA: ABC-CLIO, 2006.
 
-Bourne, Edward Gaylord. Spain in America. New York: Barnes and Noble, 1962.
+<a name="bourne"></a>Bourne, Edward Gaylord. <i>Spain in America</i>. New York: Barnes and Noble, 1962.
 
-Boxer, C.R. [Charles Ralph]. The Portuguese Seaborne Empire 1415–1825. Manchester : Carcanet in association with the Calouste Gulbenkian Foundation, 1991.
+<a name="boxer"></a>Boxer, C.R. [Charles Ralph]. <i>The Portuguese Seaborne Empire 1415–1825</i>. Manchester : Carcanet in association with the Calouste Gulbenkian Foundation, 1991.
 
-Boxer, C.R. [Charles Ralph]. The Tragic History of the Sea. Minneapolis, MN: University of Minnesota Press, 2001.
+<a name="boxer2"></a>Boxer, C.R. [Charles Ralph]. <i>The Tragic History of the Sea</i>. Minneapolis, MN: University of Minnesota Press, 2001.
 
-Boyajian, James C. Portuguese trade in Asia under the Habsburgs, 1580-1640. Baltimore, MD: Johns Hopkins University Press, 1993.
+<a name="boyajian"></a>Boyajian, James C. <i>Portuguese trade in Asia under the Habsburgs, 1580-1640</i>. Baltimore, MD: Johns Hopkins University Press, 1993.
 
-Budsberg, Nicholas, James Jobling, and Filipe Castro. “The Rio Grande Do Norte Astrolabe.” International Journal of Historical Archaeology 20, no. 2 (2016): 405–21. http://www.jstor.org/stable/26174265.
+<a name="budsberg"></a>Budsberg, Nicholas, James Jobling, and Filipe Castro. “The Rio Grande Do Norte Astrolabe.” <i>International Journal of Historical Archaeology</i> 20, no. 2 (2016): 405–21. [Link to article](http://www.jstor.org/stable/26174265).
 
 Castro, Filipe, James Jobling, Nicholas Budsberg, Brad Loewen, Gaelle Dieulefet. Marine Astrolabes Catalogue. ShipLAB Report 16.3, June 2020.
 
