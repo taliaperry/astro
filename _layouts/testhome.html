@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="en" class="h-100">
+  <head prefix="og: http://ogp.me/ns#">
+    {% include head/head.html %}
+  </head>
+  <body class="d-flex flex-column h-100 bg-dark">
+    <div id="skip-to-content"><a href="#maincontent">Skip to main content</a></div>
+    {% include collection-banner.html %}
+    <main id="maincontent" role="main" class="flex-shrink-0">
+<div class="container my-4">
+{{ content }}
+</div>
+    </main>
+    {% include footer.html %}
+    {% include foot.html %}
+  </body>
+</html>
