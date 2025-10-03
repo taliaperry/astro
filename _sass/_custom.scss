@@ -51,13 +51,10 @@ text-decoration: none;}
   left: 0;
   background: $success;
     z-index: -2;
-    overflow: clip;
 }
-
-.ocean:after {
+.inversecolorscheme footer {
   background: $success;
 }
-
 .wave {
   background: url(https://taliaperry.github.io/astro/assets/img/wave.svg) repeat-x;
   position: absolute;
