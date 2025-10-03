@@ -10,7 +10,7 @@
     background-color:transparent;}
 
 .inversecolorscheme main {
- padding-top: 4em;
+ padding-top: 2em;
  min-height: 500px;}
 
 .inversecolorscheme main a, .inversecolorscheme footer a {
@@ -27,11 +27,16 @@ text-decoration: none;}
 .inversecolorscheme footer {
   background: $success;}
 
-.sun {
+.sun a {
     text-align: end;
     font-size: 4em;
     font-family: chaparral-pro, serif;
-    font-feature-settings: "ornm";}
+    font-feature-settings: "ornm";
+color:$warning;
+text-decoration: none;}
+.sun a:hover {
+color:$danger;
+text-decoration: none;}
 
 .sea {
   height: 5%;
@@ -85,7 +90,7 @@ header {
     font-family: ella-brutalist, sans-serif;
     font-weight: 400;
     color: $danger;
-  display: inline-block;
+  display: block;
   text-decoration: none;
   position: relative;
   z-index: 5;}
