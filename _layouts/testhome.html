@@ -3,14 +3,21 @@
   <head prefix="og: http://ogp.me/ns#">
     {% include head/head.html %}
   </head>
-  <body class="d-flex flex-column h-100 bg-dark">
+  <body class="d-flex flex-column h-100 bg-dark inversecolorscheme">
     <div id="skip-to-content"><a href="#maincontent">Skip to main content</a></div>
     {% include collection-banner.html %}
+    
     <main id="maincontent" role="main" class="flex-shrink-0">
-<div class="container my-4">
+<div class="container my-4 pt-4">
 {{ content }}
 </div>
     </main>
+    
+<div class="sea">
+<div class="wave"></div>
+<div class="wave wave2"></div>
+</div>
+    
     {% include footer.html %}
     {% include foot.html %}
   </body>
