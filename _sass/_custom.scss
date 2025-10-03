@@ -30,6 +30,7 @@ text-decoration: none;}
 .sun {
     text-align: end;
     font-size: 4em;
+    margin-right: 1em;
     font-family: chaparral-pro, serif;
     font-feature-settings: "ornm";}
 .inversecolorscheme .sun a {
@@ -113,7 +114,7 @@ a.h1big:hover {
 -webkit-text-stroke: 0;
 -webkit-text-fill-color: $success;
   position: absolute;
-  z-index: 1;}
+  z-index: 0;}
     }
 
 .h1sub {
