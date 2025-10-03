@@ -36,41 +36,39 @@ permalink: /bibliography.html
 
 <a name="budsberg"></a>Budsberg, Nicholas, James Jobling, and Filipe Castro. “The Rio Grande Do Norte Astrolabe.” <i>International Journal of Historical Archaeology</i> 20, no. 2 (2016): 405–21. [Link to article](http://www.jstor.org/stable/26174265).
 
-Castro, Filipe, James Jobling, Nicholas Budsberg, Brad Loewen, Gaelle Dieulefet. Marine Astrolabes Catalogue. ShipLAB Report 16.3, June 2020.
+<a name="castro"></a>Castro, Filipe, James Jobling, Nicholas Budsberg, Brad Loewen, Gaelle Dieulefet. Marine Astrolabes Catalogue. ShipLAB Report 16.3, June 2020.
 
-Castro, Filipe. “The Pepper Wreck: Nossa Senhora dos Mártires, Lisbon, Portugal.” In Beneath the Seven Seas: Adventures with the Institute of Nautical Archaeology, edited by George F. Bass. London: Thames & Hudson Ltd., 2005.
+<a name="castro2"></a>Castro, Filipe. “The Pepper Wreck: Nossa Senhora dos Mártires, Lisbon, Portugal.” In <i>Beneath the Seven Seas: Adventures with the Institute of Nautical Archaeology</i>, edited by George F. Bass. London: Thames & Hudson Ltd., 2005.
 
-Collins, Edward. “Interactions of Portuguese artisanal culture in the maritime enterprise of 16th-century Seville.” Centaurus (August 2018): 203–215. DOI: 10.1111/1600-0498.12188
+<a name="collins"></a>Collins, Edward. “Interactions of Portuguese artisanal culture in the maritime enterprise of 16th-century Seville.” <i>Centaurus</i> (August 2018): 203–215. [Link to article](https://doi.org/10.1111/1600-0498.12188).
 
-Collins, Edward. “Portuguese pilots at the Casa de la Contratación and the Examenes de Pilotos.” The International Journal ofMaritime History 26(2) (2014): 179–192. DOI: 10.1177/0843871414527399.
+<a name="collins2"></a>Collins, Edward. “Portuguese pilots at the Casa de la Contratación and the Examenes de Pilotos.” <i>The International Journal of Maritime History</i> 26(2) (2014): 179–192. [Link to article](https://doi.org/10.1177/0843871414527399).
 
-[TEST LINK](#almeida)
+<a name="cortes"></a>Cortés, Martín. <i>Breve compendio de la sphera y de la Arte de navegar</i> (Seville, 1551). Facsimile. Valladolid, Spain: Editorial Maxtor, 2003.
 
-Cortés, Martín. Breve compendio de la sphera y de la Arte de navegar (Seville, 1551). Facsimile. Valladolid, Spain: Editorial Maxtor, 2003.
+<a name="cummins"></a>Cummins, Neil. “Lifespans of the European Elite, 800–1800.” <i>The Journal of Economic History</i> 77, no 2 (2017): 406–39. [Link to article](https://doi.org/10.1017/S0022050717000468).
 
-Cummins, Neil. “Lifespans of the European Elite, 800–1800.” The Journal of Economic History 77, no 2 (2017): 406–39. doi:10.1017/S0022050717000468.
+<a name="dasilva"></a>Da Silva, Manuel Telles, Marquês de Alegrete. <i>De rebus gestis Joanni II</i>. Ulyssipone [Lisbon]: Michael Manescal, 1689. [Link to book](https://www.google.com/books/edition/De_rebus_gestis_Joannis_II_Lusitanorum_R/EW9nAAAAcAAJ).
 
-Da Silva, Manuel Telles, Marquês de Alegrete. De rebus gestis Joanni II. Ulyssipone [Lisbon]: Michael Manescal, 1689. https://www.google.com/books/edition/De_rebus_gestis_Joannis_II_Lusitanorum_R/EW9nAAAAcAAJ.
+<a name="debrito"></a>De Brito, Bernardo Gomes. <i>Historia tragico-maritima</i>, vol. 1. Lisbon: Na officina da Congregaçaõ do Oratorio, 1735. [Link to book](https://www.google.com/books/edition/Historia_tragico_maritima_em_que_se_escr/xuDP7CFsM-MC).
 
-De Brito, Bernardo Gomes. Historia tragico-maritima, vol. 1. Lisbon: Na officina da Congregaçaõ do Oratorio, 1735. https://www.google.com/books/edition/Historia_tragico_maritima_em_que_se_escr/xuDP7CFsM-MC
+<a name="dehilster"></a>De Hilster, Nicolàs. “1580s Iberian astrolabe (reproduction),” Nautical Instruments. Accessed April 2022. [Link to website](https://www.dwHilster.info).
 
-De Hilster, Nicolàs. “1580s Iberian astrolabe (reproduction),” Nautical Instruments. Accessed April 2022. https://www.dwHilster.info
+<a name="delisboa"></a>De Lisboa, João. Livro de Marinharia. <i>Tratado da Agulha de Marear</i>. [16th century codex] Transcribed and edited by Jacinto Ignacio de Brito Rebello. Lisbon: Imprensa de Libanio Da Silva, 1903. [Link to book](https://www.google.com/books/edition/Livro_de_marinharia/8vwnAAAAYAAJ).
 
-De Lisboa, João. Livro de Marinharia. Tratado da Agulha de Marear. [16th century codex] Transcribed and edited by Jacinto Ignacio de Brito Rebello. Lisbon: Imprensa de Libanio Da Silva, 1903. https://www.google.com/books/edition/Livro_de_marinharia/8vwnAAAAYAAJ.
+<a name="destombes"></a>Destombes, Marcel. “Un astrolabe nautique de la Casa de Contratación (Seville, 1563).” <i>Revue d'histoire des sciences et de leurs applications</i> 22, n1 (1969): 33–64. [Link to article](https://doi.org/10.3406/rhs.1969.2575).
 
-Destombes, Marcel. “Un astrolabe nautique de la Casa de Contratación (Seville, 1563).” Revue d'histoire des sciences et de leurs applications 22, n1 (1969): 33–64. https://doi.org/10.3406/rhs.1969.2575
+<a name="duhalde"></a>Du Halde, Jean-Baptiste. <i>The General History of China</i>, 3rd ed., vol. III. Translated by Richard Brookes. London: J. Watts, 1741. [Link to book](https://archive.org/details/generalhistoryof03duha).
 
-Du Halde, Jean-Baptiste. The General History of China, 3rd ed., vol. III. Translated by Richard Brookes. London: J. Watts, 1741. https://archive.org/details/generalhistoryof03duha/mode/2up.
+<a name="dutra"></a>Dutra, Francis A. "Portuguese Overseas Administration." In <i>Encyclopedia of Latin American History and Cultur</i>, 2nd edition, vol. 5, edited by Jay Kinsbruner and Erick D. Langer, 319–320. Detroit, MI: Charles Scribner's Sons, 2008. [Link to entry](https://link.gale.com/apps/doc/CX3078904496/GVRL?u=cmu_main&sid=bookmark-GVRL&xid=9011cbe0).
 
-Dutra, Francis A. "Portuguese Overseas Administration." In Encyclopedia of Latin American History and Culture, 2nd edition, vol. 5, edited by Jay Kinsbruner and Erick D. Langer, 319–320. Detroit, MI: Charles Scribner's Sons, 2008. https://link.gale.com/apps/doc/CX3078904496/GVRL?u=cmu_main&sid=bookmark-GVRL&xid=9011cbe0.
+<a name="dutra2"></a>Dutra, Francis A. “The Social and Economic World of Portugal’s Elite Seafarers, 1481-1600.” <i>Mediterranean Studies</i> 14 (2005): 95–105. [Link to article](http://www.jstor.org/stable/41166980).
 
-Dutra, Francis A. “The Social and Economic World of Portugal’s Elite Seafarers, 1481-1600.” Mediterranean Studies 14 (2005): 95–105. http://www.jstor.org/stable/41166980.
+<a name="fernandezarmesto"></a>Fernández-Armesto, Felipe. “30. Maps and Exploration in the Sixteenth and Early Seventeenth Centuries.” In <i>The History of Cartography, Volume 3: Cartography in the European Renaissance</i>, edited by David Woodward. Chicago, IL: University of Chicago Press, 2007. [Link to chapter](https://press.uchicago.edu/books/HOC/HOC_V3_Pt1/Volume3_Part1.html). 
 
-Fernández-Armesto, Felipe. “30. Maps and Exploration in the Sixteenth and Early Seventeenth Centuries.” In The History of Cartography, Volume 3: Cartography in the European Renaissance, edited by David Woodward. Chicago, IL: University of Chicago Press, 2007. https://press.uchicago.edu/books/HOC/HOC_V3_Pt1/Volume3_Part1.html. 
+<a name="ferreira"></a>Ferreira, Nuno Martins. <i>A institucionalização do ensino da Náutica em Portugal</i> (1779‑1807). Lisbon: Academia de Marinha, 2017.
 
-Ferreira, Nuno Martins. A institucionalização do ensino da Náutica em Portugal (1779‑1807). Lisbon: Academia de Marinha, 2017.
-
-Fontes da Costa, Palmira, and Henrique Leitāo. “Chapter Two. Portuguese Imperial Science, 1450–1800.” In Science in the Spanish and Portuguese empires, 1500-1800, edited by Daniela Bleichmar, Paula De Vos, Kristin Huffine, and Kevin Sheehan, 35–56. Stanford, CA: Stanford University Press, 2009. https://ebookcentral.proquest.com/lib/cm/detail.action?docID=618842.
+<a name="fontesdacosta"></a>Fontes da Costa, Palmira, and Henrique Leitāo. “Chapter Two. Portuguese Imperial Science, 1450–1800.” In <i>Science in the Spanish and Portuguese empires, 1500-1800</i>, edited by Daniela Bleichmar, Paula De Vos, Kristin Huffine, and Kevin Sheehan, 35–56. Stanford, CA: Stanford University Press, 2009. [Link to chapter](https://ebookcentral.proquest.com/lib/cm/detail.action?docID=618842).
 
 Garcia, Gustavo. “Nautical Astrolabes.” In Edge of Empire, edited by Filipe Vieira de Castro and Katie Custer, 249–274. Lisbon, Portugal: Caleidoscópio, 2008.
 
