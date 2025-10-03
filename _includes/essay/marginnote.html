@@ -33,8 +33,8 @@
     {% else %}
         {%- assign figure = site.data[site.metadata] | where: "objectid", i | first -%}
         {%- capture image_link -%}{% if figure.parentid %}{{ figure.objectid | prepend: '#' | prepend: figure.parentid | prepend: '/item.html?id=' | relative_url }}{% else %}{{ figure.objectid | prepend: '/item.html?id=' | relative_url }}{% endif %}{% endcapture %}
-        {%- capture image_caption -%}{{ captions[forloop.index0] | default: figure.title }}{%- endcapture -%}
-        {%- capture image_alt -%}{{ alts[forloop.index0] | default: figure.title }}{%- endcapture -%}
+{% if captions[forloop.index0] %}{%- capture image_caption -%}{{ captions[forloop.index0] }}{% endcapture %}{% elsif figure.parentid %}{% assign parent = site.data[site.metadata] | where: "objectid", figure.parentid | first %}{% capture image_caption %}{{ parent.title }} - {{ figure.title }}{% endcapture %}{% else %}{% capture image_caption %}{{ figure.title }}{% endcapture %}{%- endif -%}
+{%- capture image_alt -%}{{ alts[forloop.index0] | default: figure.title }}{%- endcapture -%}
         {%- capture image_src -%}{% if figure.youtubeid %}{{ 'https://img.youtube.com/vi/' | append: figure.youtubeid | append: '/hqdefault.jpg' }}{% elsif figure.filename contains '/' %}{{ figure.filename | relative_url }}{% else %}{{ '/objects/' | append: figure.filename | relative_url }}{% endif %}{% endcapture %}
     {% endif %}
 <label for="{{ include.id | default: include.objectid | slugify }}" class="margin-toggle" aria-label="toggle margin note">&#116;</label>
