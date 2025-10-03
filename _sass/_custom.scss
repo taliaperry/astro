@@ -9,6 +9,10 @@
 .inversecolorscheme header {
     background-color:transparent;}
 
+.inversecolorscheme main {
+ padding-top: 100px;
+ min-height: 400px;}
+
 .inversecolorscheme main a, .inversecolorscheme footer a {
     color: $info; 
 text-decoration: underline;}
