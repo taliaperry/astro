@@ -4,8 +4,10 @@
 */
 
 .inversecolorscheme {
-    color: $light;
-}
+    color: $light;}
+
+.inversecolorscheme header {
+    background-color:transparent;}
 
 .inversecolorscheme main a, .inversecolorscheme footer a {
     color: $info; 
@@ -15,33 +17,11 @@ text-decoration: underline;}
     color: $light; 
 text-decoration: none;}
 
-.inversecolorscheme header {
-    background-color:transparent;}
-
-.shadow-letter {
-  display: inline-block;
-  text-decoration: none;
-  position: relative;
-}
-.shadow-letter:hover {
--webkit-text-stroke: 1px $danger;
--webkit-text-fill-color: transparent;
-}
-
-.shadow-letter:hover:after {
-  display: block;
-  transform: scale(1, 1.5) translate(2rem, -2.375rem) skew(-60deg);
-  content: "How You Should Navigate By Shadows";
-  color: $success;
--webkit-text-stroke: 0;
--webkit-text-fill-color: $success;
-  position: absolute;
-  z-index: -1;
-}
-
 .inversecolorscheme .footinfo  {
-    color: $light;
-}
+    color: $light;}
+
+.inversecolorscheme footer {
+  background: $success;}
 
 .sea {
   height: 5%;
@@ -52,9 +32,7 @@ text-decoration: none;}
   background: $success;
     z-index: -2;
 }
-.inversecolorscheme footer {
-  background: $success;
-}
+
 .wave {
   background: url(https://taliaperry.github.io/astro/assets/img/wave.svg) repeat-x;
   position: absolute;
@@ -88,8 +66,6 @@ text-decoration: none;}
 
 
 
-
-
 header {
     padding-top: 4rem;
     background-color: $dark;
@@ -98,11 +74,30 @@ header {
 .h1big, a.h1big {
     font-family: ella-brutalist, sans-serif;
     font-weight: 400;
-    color: $danger;}
+    color: $danger;
+  display: inline-block;
+  text-decoration: none;
+  position: relative;}
 
 a.h1big:hover {
     color: $warning;
 }
+
+@media (min-width: 992px) {
+    a.h1big:hover {
+-webkit-text-stroke: 1px $danger;
+-webkit-text-fill-color: transparent;}
+    a.h1big:hover:after {
+  display: block;
+  transform: scale(1, 1.5) translate(2rem, -2.375rem) skew(-60deg);
+  content: "How You Should Navigate By Shadows";
+  color: $success;
+-webkit-text-stroke: 0;
+-webkit-text-fill-color: $success;
+  position: absolute;
+  z-index: -1;
+}
+    }
 
 .h1sub {
     font-family: fastpen, sans-serif;
