@@ -26,7 +26,7 @@ New instruments were tested on voyages like Vasco da Gama’s first India run, h
 
 {% include essay/figure-full-page.html objectid="cmacno004img1" %}
 
-This state of liminality is suitable, perhaps, for an object devised to “navigate by shadows,”{% capture sidenote115 %}[Francisco Rodrigues, “Chapter To Explain How You Should Navigate By Shadows,” 304.](./bibliography.html/#rodrigues){% endcapture %}{% include essay/sidenote.html id="oneonefive" text=sidenote115 %} untethered from known shores and sailing off into a rapidly expanding global world.
+This state of liminality is suitable, perhaps, for an object devised to “navigate by shadows,”{% capture sidenote115 %}[Francisco Rodrigues, “Chapter To Explain How You Should Navigate By Shadows,” 304.](./bibliography.html#rodrigues){% endcapture %}{% include essay/sidenote.html id="oneonefive" text=sidenote115 %} untethered from known shores and sailing off into a rapidly expanding global world.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Laoreet sit amet cursus sit amet dictum sit amet justo. Ultricies mi eget mauris pharetra et ultrices neque ornare aenean. Vestibulum mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare. Venenatis cras sed felis eget velit aliquet sagittis id consectetur. Sed nisi lacus sed viverra tellus in hac habitasse platea. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Sit amet tellus cras adipiscing enim eu turpis egestas. Dictum varius duis at consectetur lorem donec massa sapien faucibus.
 
