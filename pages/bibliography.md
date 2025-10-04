@@ -140,22 +140,22 @@ permalink: /bibliography.html
 
 <a name="sandman3"></a>Sandman, Alison. “Educating Pilots: Licensing exams, Cosmography classes, and the Universidad de Mareantes in 16th century Spain.” In <i>Fernando Oliveira e o Seu Tempo Humanismo e Arte de Navegar no Renascimento Europeu</i>, 99–109. Ars Nautica. Cascais, Portugal: Patrimonia, 1999. 
 
-Savage-Smith, Emilie. “2. Celestial Mapping” In The History of Cartography, Volume 2, Book 1: Cartography in the Traditional Islamic and South Asian Societies, edited by J. B. Harley and David Woodward. Chicago, IL: University of Chicago Press, 1992. https://press.uchicago.edu/books/HOC/HOC_V2_B1/Volume2_Book1.html.
+<a name="savage-smith"></a>Savage-Smith, Emilie. “2. Celestial Mapping” In <i>The History of Cartography, Volume 2, Book 1: Cartography in the Traditional Islamic and South Asian Societies</i>, edited by J. B. Harley and David Woodward. Chicago, IL: University of Chicago Press, 1992. [Link to chapter](https://press.uchicago.edu/books/HOC/HOC_V2_B1/Volume2_Book1.html).
 
-Silva, Nuno Vassallo. A Herança de Rauluchantim [The heritage of Rauluchantim]. Lisbon: Museu de São Roque, 1996.
+<a name="silva"></a>Silva, Nuno Vassallo. <i>A Herança de Rauluchantim [The heritage of Rauluchantim]</i>. Lisbon: Museu de São Roque, 1996.
 
-Smith, B.S. [Ben]. “An astrolabe from Passa Pau, Cape Verde Islands.” The International Journal of Nautical Archaeology 31, no. 1 (2002): 99–107. doi:10.1006/ijna.2002.1021
+<a name="smith"></a>Smith, B.S. [Ben]. “An astrolabe from Passa Pau, Cape Verde Islands.” <i>The International Journal of Nautical Archaeology</i> 31, no. 1 (2002): 99–107. [Link to article](http://doi.org/10.1006/ijna.2002.1021).
 
-Stade, Hans. The Captivity of Hans Stade of Hesse, in A.D. 1547–1555,  Among the Wild Tribes of Eastern Brazil [originally Warhaftige Historia und beschreibung eyner Landtschafft der Wilden Nacketen, Grimmigen Menschfresser-Leuthen in der Newenwelt America gelegen, 1557]. Translated by Albert Tootal for the Haklyt Society. New York: Burt Franklin, 1874.
+<a name="stade"></a>Stade, Hans. The Captivity of Hans Stade of Hesse, in <i>A.D. 1547–1555,  Among the Wild Tribes of Eastern Brazil</i> [originally <i>Warhaftige Historia und beschreibung eyner Landtschafft der Wilden Nacketen, Grimmigen Menschfresser-Leuthen in der Newenwelt America gelegen</i>, 1557]. Translated by Albert Tootal for the Haklyt Society. New York: Burt Franklin, 1874.
 
-Stimson, Alan. The Mariner’s Astrolabe: A Survey of 48 Surviving Examples. Lisbon, Portugal: Instituto de Investigação Científica Tropical, 1985. Facsimile of Revista da Universidade de Coimbra xxxii (1985): 573–605. https://www.google.com/books/edition/The_Mariner_s_Astrolabe/958abQqdt2sC.
+<a name="stimson"></a>Stimson, Alan. <i>The Mariner’s Astrolabe: A Survey of 48 Surviving Examples</i>. Lisbon, Portugal: Instituto de Investigação Científica Tropical, 1985. Facsimile of Revista da Universidade de Coimbra xxxii (1985): 573–605. [Link to book](https://www.google.com/books/edition/The_Mariner_s_Astrolabe/958abQqdt2sC).
 
-Tuttle, Patricia. “An Investigation of The Renaissance Casting Techniques of Incuse-Reverse and Double-Sided Medals.” Studies in the History of Art 21 (1987): 205–12. http://www.jstor.org/stable/42620183.
+<a name="tuttle"></a>Tuttle, Patricia. “An Investigation of The Renaissance Casting Techniques of Incuse-Reverse and Double-Sided Medals.” <i>Studies in the History of Art</i> 21 (1987): 205–12. [Link to article](http://www.jstor.org/stable/42620183).
 
-Van Linschoten, Jan Huyghen. “The Pay of Officers and Men [1594].” In Jan Huyghen van Linschoten: Voyage to Goa and Back 1583–1592. New Delhi, India: Asian Education Services, 2004. 
+<a name="vanlinschoten"></a>Van Linschoten, Jan Huyghen. “The Pay of Officers and Men [1594].” In <i>Jan Huyghen van Linschoten: Voyage to Goa and Back 1583–1592</i>. New Delhi, India: Asian Education Services, 2004. 
 
-Waters, David. The Sea- or Mariner’s Astrolabe. Coimbra, Portugal: Junta de Investigações do Ultramar, 1966. https://repositorio.ul.pt/bitstream/10451/40499/1/N.%C2%BA%2015%20%E2%80%93%20David%20Waters%20%281966%29%2C%20%E2%80%9CThe%20sea%20%E2%80%93%20or%20mariners%E2%80%99s%20astrolabe%E2%80%9D.pdf
+<a name="waters"></a>Waters, David. <i>The Sea- or Mariner’s Astrolabe</i>. Coimbra, Portugal: Junta de Investigações do Ultramar, 1966. [Link to book](https://repositorio.ul.pt/bitstream/10451/40499/1/N.%C2%BA%2015%20%E2%80%93%20David%20Waters%20%281966%29%2C%20%E2%80%9CThe%20sea%20%E2%80%93%20or%20mariners%E2%80%99s%20astrolabe%E2%80%9D.pdf).
 
-Zamorano, Rodrigo. Compendio del arte de nauegar. Seville: En Casa de Iuan de Leon, 1591. https://archive.org/details/ARes77502
+<a name="zamorano"></a>Zamorano, Rodrigo. <i>Compendio del arte de nauegar</i>. Seville: En Casa de Iuan de Leon, 1591. [Link to book](https://archive.org/details/ARes77502).
 
-Županov, Ines G. “The Pulpit Trap: Possession and Personhood in Colonial Goa.” RES: Anthropology and Aesthetics, no. 65/66 (2014): 298–315. http://www.jstor.org/stable/24871258.
+<a name="zupanov"></a>Županov, Ines G. “The Pulpit Trap: Possession and Personhood in Colonial Goa.” <i>RES: Anthropology and Aesthetics</i>, no. 65/66 (2014): 298–315. [Link to article](http://www.jstor.org/stable/24871258).
