@@ -70,57 +70,57 @@ permalink: /bibliography.html
 
 <a name="fontesdacosta"></a>Fontes da Costa, Palmira, and Henrique Leitāo. “Chapter Two. Portuguese Imperial Science, 1450–1800.” In <i>Science in the Spanish and Portuguese empires, 1500-1800</i>, edited by Daniela Bleichmar, Paula De Vos, Kristin Huffine, and Kevin Sheehan, 35–56. Stanford, CA: Stanford University Press, 2009. [Link to chapter](https://ebookcentral.proquest.com/lib/cm/detail.action?docID=618842).
 
-Garcia, Gustavo. “Nautical Astrolabes.” In Edge of Empire, edited by Filipe Vieira de Castro and Katie Custer, 249–274. Lisbon, Portugal: Caleidoscópio, 2008.
+<a name="garcia"></a>Garcia, Gustavo. “Nautical Astrolabes.” In <i>Edge of Empire</i>, edited by Filipe Vieira de Castro and Katie Custer, 249–274. Lisbon, Portugal: Caleidoscópio, 2008.
 
-Guedes, Max Justo. “A study of some nautical instruments (including two astrolabes) recovered from the ‘Sacramento’ Shipwreck (1668) at Bahia.” In Five Hundred Years of Nautical Science 1400–1900: Proceedings of the Third International Reunion for the History of Nautical Science and Hydrography held at the National Maritime Museum, Greenwich 24–28 September 1979, edited by Derek Howse, 93–107. London: National Maritime Museum Greenwich, 1981.
+<a name="guedes"></a>Guedes, Max Justo. “A study of some nautical instruments (including two astrolabes) recovered from the ‘Sacramento’ Shipwreck (1668) at Bahia.” In <i>Five Hundred Years of Nautical Science 1400–1900: Proceedings of the Third International Reunion for the History of Nautical Science and Hydrography held at the National Maritime Museum, Greenwich 24–28 September 1979</i>, edited by Derek Howse, 93–107. London: National Maritime Museum Greenwich, 1981.
 
-Hakluyt Society, ed. A Journal of the First Voyage of Vasco Da Gama, 1497–1499. Translated by E.G. Ravenstein. New York, NY: Burt Franklin, 2014. Project Gutenberg. https://www.gutenberg.org/files/46440/46440-h/46440-h.htm.
+<a name="hakluyt"></a>Hakluyt Society, ed. <i>A Journal of the First Voyage of Vasco Da Gama, 1497–1499</i>. Translated by E.G. Ravenstein. New York, NY: Burt Franklin, 2014. Project Gutenberg. [Link to book](https://www.gutenberg.org/files/46440/46440-h/46440-h.htm).
 
-Hakluyt Society, ed. The Voyages of Pedro Àlvares Cabral to Brazil and India, translated by William Brooks Greenlee. London: 1938.
+<a name="hakluyt2"></a>Hakluyt Society, ed. <i>The Voyages of Pedro Àlvares Cabral to Brazil and India</i>, translated by William Brooks Greenlee. London: 1938.
 
-Harding, Clarence Henry. Trade and Navigation Between Spain and the Indies in the Time of the Hapsburgs. Cambridge, MA: Harvard University Press, 1918. https://www.google.com/books/edition/Trade_and_Navigation_Between_Spain_and_t/Ttw9AQAAMAAJ?hl=en&gbpv=0.
+<a name="harding"></a>Harding, Clarence Henry. <i>Trade and Navigation Between Spain and the Indies in the Time of the Hapsburgs</i>. Cambridge, MA: Harvard University Press, 1918. [Link to book](https://www.google.com/books/edition/Trade_and_Navigation_Between_Spain_and_t/Ttw9AQAAMAAJ?hl=en&gbpv=0).
 
-Heginbotham, Arlen, Aniko Bezur, Michel Bouchard, Jeffrey M. Davis, Katherine Eremin, James H. Frantz, Lisha Glinsman, Lee-Ann Hayek, Duncan Hook, Vicky Kantarelou, Andreas Germanos Karydas, Lynn Lee, Jennifer Mass, Catherine Matsen, Blythe McCarthy, Molly McGath, Aaron Shugar, Jane Sirois, Dylan Smith, Robert J. Speakman. “An Evaluation of Inter-laboratory Reproducibility for Quantitative XRF of Historic Copper Alloys.” In Metal 2010 International Conference on Metal Conservation, edited by Paul Mardikian, Claudia Chemello, Christopher Watters, Peter Hull, 178–188. Clemson, SC: Clemson University, 2010.
+<a name="heginbotham"></a>Heginbotham, Arlen, Aniko Bezur, Michel Bouchard, Jeffrey M. Davis, Katherine Eremin, James H. Frantz, Lisha Glinsman, Lee-Ann Hayek, Duncan Hook, Vicky Kantarelou, Andreas Germanos Karydas, Lynn Lee, Jennifer Mass, Catherine Matsen, Blythe McCarthy, Molly McGath, Aaron Shugar, Jane Sirois, Dylan Smith, Robert J. Speakman. “An Evaluation of Inter-laboratory Reproducibility for Quantitative XRF of Historic Copper Alloys.” In <i>Metal 2010 International Conference on Metal Conservation</i>, edited by Paul Mardikian, Claudia Chemello, Christopher Watters, Peter Hull, 178–188. Clemson, SC: Clemson University, 2010.
 
-Hunter, David. “The Mystery of Champlain’s Astrolabe.” The Beaver 84, no. 6 (Dec. 2004/Jan. 2005).
+<a name="hunter"></a>Hunter, David. “The Mystery of Champlain’s Astrolabe.” <i>The Beaver</i> 84, no. 6 (Dec. 2004/Jan. 2005).
 
-Institució alfons el magnànim centre valencià d'estudis i d'investigació. “Diego Ramírez de Arellano i el seu 'Reconnaissance of the Straits of Magellan and San Viçente.'” Published December 2011. Accessed April 2022. https://www.alfonselmagnanim.net/noticia/diego-ramirez-de-arellano-i-el-seu-reconosimiento-de-los-estrechos-de-magallanes-y-de-san-vicente_2744/.
+<a name="institucioalfons"></a>Institució alfons el magnànim centre valencià d'estudis i d'investigació. “Diego Ramírez de Arellano i el seu 'Reconnaissance of the Straits of Magellan and San Viçente.'” Published December 2011. Accessed April 2022. [Link to article](https://www.alfonselmagnanim.net/noticia/diego-ramirez-de-arellano-i-el-seu-reconosimiento-de-los-estrechos-de-magallanes-y-de-san-vicente_2744/).
 
-Kharakwal, J.S. and L.K. Gurjar. “Zinc and Brass in Archaeological Perspective.” Ancient Asia 1 (2006): 139–159. http://doi.org/10.5334/aa.06112
+<a name="kharakwal"></a>Kharakwal, J.S. and L.K. Gurjar. “Zinc and Brass in Archaeological Perspective.” <i>Ancient Asia</i> 1 (2006): 139–159. [Link to article](http://doi.org/10.5334/aa.06112).
 
-Kerr, Robert, ed. “Chapter VI. History of the discovery and conquest of India by the Portuguese, between the years 1497 and 1525: from the original Portuguese of Herman Lopes de Castaneda.” In A General History and Collection of Voyages and Travels, Volume II. Edinburgh, Scotland: William Blackwood, 1824. Project Gutenberg. https://www.gutenberg.org/files/10803/10803-h/10803-h.htm.
+<a name="kerr"></a>Kerr, Robert, ed. “Chapter VI. History of the discovery and conquest of India by the Portuguese, between the years 1497 and 1525: from the original Portuguese of Herman Lopes de Castaneda.” In <i>A General History and Collection of Voyages and Travels, Volume II</i>. Edinburgh, Scotland: William Blackwood, 1824. Project Gutenberg. [Link to book](https://www.gutenberg.org/files/10803/10803-h/10803-h.htm).
 
-Leibsohn, Dana and Barbara E. Mundy. Vistas: Visual Culture in Spanish America, 1520-1820. Copyright 2015. Accessed April 2022. http://www.fordham.edu/vistas.
+<a name="leibsohn"></a>Leibsohn, Dana and Barbara E. Mundy. Vistas: Visual Culture in Spanish America, 1520-1820. Copyright 2015. Accessed April 2022. [Link to website](http://www.fordham.edu/vistas).
 
-Leitão, Henrique. “All Aboard!: Science and Ship Culture in Sixteenth-Century Oceanic Voyages.” Early Science and Medicine 21, no. 2/3 (2016): 113–32. http://www.jstor.org/stable/24760416.
+<a name="leitao"></a>Leitão, Henrique. “All Aboard!: Science and Ship Culture in Sixteenth-Century Oceanic Voyages.” <i>Early Science and Medicine</i> 21, no. 2/3 (2016): 113–32. [Link to article](http://www.jstor.org/stable/24760416).
 
-Long, Pamela O. “The Openness of Knowledge: An Ideal and Its Context in 16th-Century Writings on Mining and Metallurgy” In The History of Science in a World of Readers. Berlin: Max-Planck-Gesellschaft zur Förderung der Wissenschaften, 2019. https://doi.org/10.34663/9783945561430-02.
+<a name="long"></a>Long, Pamela O. “The Openness of Knowledge: An Ideal and Its Context in 16th-Century Writings on Mining and Metallurgy” In <i>The History of Science in a World of Readers</i>. Berlin: Max-Planck-Gesellschaft zur Förderung der Wissenschaften, 2019. [Link to chapter](https://doi.org/10.34663/9783945561430-02).
 
-Malcom,Corey. “The 1622 Tierra Firme Fleet: An Account of the Disaster and the People.” Mel Fisher Maritime Museum Series of Occasional Papers in Maritime Heritage Research no. 1 (December 2019). 
+<a name="malcom"></a>Malcom, Corey. “The 1622 Tierra Firme Fleet: An Account of the Disaster and the People.” Mel Fisher Maritime Museum Series of Occasional Papers in <i>Maritime Heritage Research</i> no. 1 (December 2019). 
 
-Mathewson, Duncan. Treasure of the Atocha. New York: Pisces Books, 1986.
+<a name="mathewson"></a>Mathewson, Duncan. <i>Treasure of the Atocha</i>. New York: Pisces Books, 1986.
 
-Mearns, D.L.,  J.M. Warnett, and M.A. Williams. “An Early Portuguese Mariner's Astrolabe from the Sodré Wreck-site, Al Hallaniyah, Oman.” International Journal of Nautical Archaeology, 48 (2019): 495-506. https://doi.org/10.1111/1095-9270.12353.
+<a name="mearns"></a>Mearns, D.L.,  J.M. Warnett, and M.A. Williams. “An Early Portuguese Mariner's Astrolabe from the Sodré Wreck-site, Al Hallaniyah, Oman.” <i>International Journal of Nautical Archaeology</i>, 48 (2019): 495-506. [Link to article](https://doi.org/10.1111/1095-9270.12353).
 
-Munro, John H. “ ‘Money, prices, wages, and ‘profit inflation’ in Spain, the southern Netherlands, and England during the price revolution era, ca. 1520– ca. 1650.” História e Economia: Revista Interdisciplinar 4 (2008): 13–71.
+<a name="munro"></a>Munro, John H. “ ‘Money, prices, wages, and ‘profit inflation’ in Spain, the southern Netherlands, and England during the price revolution era, ca. 1520– ca. 1650.” <i>História e Economia: Revista Interdisciplinar</i> 4 (2008): 13–71.
 
-Oliveira, Simão de. Arte de navegar. Lisbon: Pedro Crasbeeck, 1606. https://purl.pt/20845.
+<a name="oliveira"></a>Oliveira, Simão de. <i>Arte de navegar</i>. Lisbon: Pedro Crasbeeck, 1606. [Link to book](https://purl.pt/20845).
 
-Pereira, Duarte Pacheco. Esmeraldo de Situ Orbis [written 1505–1508, published 1892]. Translated and edited by George H. T. Kimble. London: The Hakluyt Society, 1937. https://archive.org/details/in.ernet.dli.2015.280017/.
+<a name="pereira"></a>Pereira, Duarte Pacheco. <i>Esmeraldo de Situ Orbis</i> [written 1505–1508, published 1892]. Translated and edited by George H. T. Kimble. London: The Hakluyt Society, 1937. [Link to book](https://archive.org/details/in.ernet.dli.2015.280017/).
 
-Pérez de Moya, Juan. Obra intitulada fragmentos mathematicos: en que se tratan cosas de Geometria y Astronomia y Geographia y Philosophia natural y Sphera y Astrolabio y Nauegacion y Reloxes [Mathematical Fragments]. Salamanca, Spain: Casa de Iuan de Canoua, 1567. http://bdh.bne.es/bnesearch/detalle/bdh0000254981.
+<a name="perezdemoya"></a>Pérez de Moya, Juan. <i>Obra intitulada fragmentos mathematicos: en que se tratan cosas de Geometria y Astronomia y Geographia y Philosophia natural y Sphera y Astrolabio y Nauegacion y Reloxes [Mathematical Fragments]</i>. Salamanca, Spain: Casa de Iuan de Canoua, 1567. [Link to book](http://bdh.bne.es/bnesearch/detalle/bdh0000254981).
 
-Pérez-Mallaína, Pablo E. Spain’s Men of the Sea: Daily Life on the Indies Fleets in the Sixteenth Century, translated by Carla Rahn Phillips. Baltimore, MD: Johns Hopkins University Press, 1998.
+<a name="perezmallaina"></a>Pérez-Mallaína, Pablo E. <i>Spain’s Men of the Sea: Daily Life on the Indies Fleets in the Sixteenth Century</i>, translated by Carla Rahn Phillips. Baltimore, MD: Johns Hopkins University Press, 1998.
 
-Peng, Austin. “Bonze vs Brass.” DEK On-Demand Manufacturing. Published December 20, 2020. Accessed April 2022. https://www.dekmake.com/bronze-vs-brass/
+<a name="peng"></a>Peng, Austin. “Bonze vs Brass.” DEK On-Demand Manufacturing. Published December 20, 2020. Accessed April 2022. [Link to website](https://www.dekmake.com/bronze-vs-brass/).
 
-Philadelphia Museum of Art. “Chemical Finishing Techniques.” Accessed April 2022. https://www.philamuseum.org/booklets/7_42_72_1.html.
+<a name="philadelphamuseum"></a>Philadelphia Museum of Art. “Chemical Finishing Techniques.” Accessed April 2022. [Link to website](https://www.philamuseum.org/booklets/7_42_72_1.html).
 
-Portuondo, Maria M. “Chapter 7.  Cosmography Dissolves.” In Secret Science : Spanish Cosmography and the New World. Chicago, IL: University of Chicago Press, 2009. 
+<a name="portuondo"></a>Portuondo, Maria M. “Chapter 7.  Cosmography Dissolves.” In <i>Secret Science: Spanish Cosmography and the New World</i>. Chicago, IL: University of Chicago Press, 2009. 
 
-Portuondo, Maria M. “Chapter Three. Cosmography at the Casa, Consejo, and Corte During the Century of Discovery.” In Science in the Spanish and Portuguese empires, 1500-1800, edited by Daniela Bleichmar, Paula De Vos, Kristin Huffine, and Kevin Sheehan, 57–77. Stanford, CA: Stanford University Press, 2009. https://ebookcentral.proquest.com/lib/cm/detail.action?docID=618842.
+<a name="portuondo2"></a>Portuondo, Maria M. “Chapter Three. Cosmography at the Casa, Consejo, and Corte During the Century of Discovery.” In <i>Science in the Spanish and Portuguese empires, 1500-1800</i>, edited by Daniela Bleichmar, Paula De Vos, Kristin Huffine, and Kevin Sheehan, 57–77. Stanford, CA: Stanford University Press, 2009. [Link to chapter](https://ebookcentral.proquest.com/lib/cm/detail.action?docID=618842).
 
-Powell, Carol and Roger Francis, ed. The corrosion performance of metals for the marine environment: A basic guide. New York, NY: CRC Press, 2012.
+<a name="powell"></a>Powell, Carol and Roger Francis, ed. <i>The corrosion performance of metals for the marine environment: A basic guide</i>. New York, NY: CRC Press, 2012.
 
 Rodrigues, Francisco. “The Book of Francisco Rodrigues: Rutter of a Voyage in the Red Sea, Nautical Rules, Almanack and Maps, Written and Drawn in the East before 1515.” Translated and edited by Armando Cortesão. In The Suma Oriental of Tomé Pires and The Book of Francisco Rodrigues, Volume II. London: The Hakluyt Society, 1944. https://archive.org/details/McGillLibrary-136388-15666/.
 
