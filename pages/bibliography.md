@@ -54,6 +54,8 @@ permalink: /bibliography.html
 
 <a name="dehilster"></a>De Hilster, Nicolàs. “1580s Iberian astrolabe (reproduction),” Nautical Instruments. Accessed April 2022. [Link to website](https://www.dwHilster.info).
 
+<a name="delbourgo"></a>James Delbourgo and Nicholas Dew, “Introduction: The Far Side of the Ocean,” <i>Science and Empire in the Atlantic World</i> (New York, NY: Routledge, 2008).
+
 <a name="delisboa"></a>De Lisboa, João. Livro de Marinharia. <i>Tratado da Agulha de Marear</i>. [16th century codex] Transcribed and edited by Jacinto Ignacio de Brito Rebello. Lisbon: Imprensa de Libanio Da Silva, 1903. [Link to book](https://www.google.com/books/edition/Livro_de_marinharia/8vwnAAAAYAAJ).
 
 <a name="destombes"></a>Destombes, Marcel. “Un astrolabe nautique de la Casa de Contratación (Seville, 1563).” <i>Revue d'histoire des sciences et de leurs applications</i> 22, n1 (1969): 33–64. [Link to article](https://doi.org/10.3406/rhs.1969.2575).
