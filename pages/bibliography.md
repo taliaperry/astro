@@ -140,7 +140,7 @@ permalink: /bibliography.html
 
 <a name="sandman3"></a>Sandman, Alison. “Educating Pilots: Licensing exams, Cosmography classes, and the Universidad de Mareantes in 16th century Spain.” In <i>Fernando Oliveira e o Seu Tempo Humanismo e Arte de Navegar no Renascimento Europeu</i>, 99–109. Ars Nautica. Cascais, Portugal: Patrimonia, 1999. 
 
-<a name="savage-smith"></a>Savage-Smith, Emilie. “2. Celestial Mapping” In <i>The History of Cartography, Volume 2, Book 1: Cartography in the Traditional Islamic and South Asian Societies</i>, edited by J. B. Harley and David Woodward. Chicago, IL: University of Chicago Press, 1992. [Link to chapter](https://press.uchicago.edu/books/HOC/HOC_V2_B1/Volume2_Book1.html).
+<a name="savage-smith"></a>Savage-Smith, Emilie. “2. Celestial Mapping.” In <i>The History of Cartography, Volume 2, Book 1: Cartography in the Traditional Islamic and South Asian Societies</i>, edited by J. B. Harley and David Woodward. Chicago, IL: University of Chicago Press, 1992. [Link to chapter](https://press.uchicago.edu/books/HOC/HOC_V2_B1/Volume2_Book1.html).
 
 <a name="silva"></a>Silva, Nuno Vassallo. <i>A Herança de Rauluchantim [The heritage of Rauluchantim]</i>. Lisbon: Museu de São Roque, 1996.
 
