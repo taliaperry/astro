@@ -122,23 +122,23 @@ permalink: /bibliography.html
 
 <a name="powell"></a>Powell, Carol and Roger Francis, ed. <i>The corrosion performance of metals for the marine environment: A basic guide</i>. New York, NY: CRC Press, 2012.
 
-Rodrigues, Francisco. “The Book of Francisco Rodrigues: Rutter of a Voyage in the Red Sea, Nautical Rules, Almanack and Maps, Written and Drawn in the East before 1515.” Translated and edited by Armando Cortesão. In The Suma Oriental of Tomé Pires and The Book of Francisco Rodrigues, Volume II. London: The Hakluyt Society, 1944. https://archive.org/details/McGillLibrary-136388-15666/.
+<a name="rodrigues"></a>Rodrigues, Francisco. “The Book of Francisco Rodrigues: Rutter of a Voyage in the Red Sea, Nautical Rules, Almanack and Maps, Written and Drawn in the East before 1515.” Translated and edited by Armando Cortesão. In <i>The Suma Oriental of Tomé Pires and The Book of Francisco Rodrigues, Volume II</i>. London: The Hakluyt Society, 1944. [Link to book](https://archive.org/details/McGillLibrary-136388-15666/).
 
-Rosenthal, Earl. “Plus Ultra, Non plus Ultra, and the Columnar Device of Emperor Charles V.” Journal of the Warburg and Courtauld Institutes 34 (1971): 204–228. https://doi.org/10.2307/751021.
+<a name="rosenthal"></a>Rosenthal, Earl. “Plus Ultra, Non plus Ultra, and the Columnar Device of Emperor Charles V.” <i>Journal of the Warburg and Courtauld Institutes</i> 34 (1971): 204–228. [Link to article](https://doi.org/10.2307/751021).
 
-Royal Museums Greenwich. “Greenwich (Valentia) Astrolabe,” ID NAV0022. Accessed April 2022. https://www.rmg.co.uk/collections/objects/rmgc-object-42234.
+<a name="royalmuseums"></a>Royal Museums Greenwich. “Greenwich (Valentia) Astrolabe,” ID NAV0022. Accessed April 2022. [Link to website](https://www.rmg.co.uk/collections/objects/rmgc-object-42234).
 
-Safier, Neil and Ilda Mendes dos Santos. “17. Mapping Maritime Triumph and the Enchantment of Empire: Portuguese Literature of the Renaissance.” In The History of Cartography, Volume 3: Cartography in the European Renaissance, edited by David Woodward. Chicago, IL: University of Chicago Press, 2007. https://press.uchicago.edu/books/HOC/HOC_V3_Pt1/Volume3_Part1.html. 
+<a name="safier"></a>Safier, Neil and Ilda Mendes dos Santos. “17. Mapping Maritime Triumph and the Enchantment of Empire: Portuguese Literature of the Renaissance.” In <i>The History of Cartography, Volume 3: Cartography in the European Renaissance</i>, edited by David Woodward. Chicago, IL: University of Chicago Press, 2007. [Link to chapter](https://press.uchicago.edu/books/HOC/HOC_V3_Pt1/Volume3_Part1.html). 
 
-Salgrado, Augusto. “Lisbon and the Gran Armada.” La Armada española de 1588 y la Contra Armada inglesa de 1589 [The Spanish Armada of 1588 and the English Counter Armada of 1589], 267–289. Madrid: Gobierno de España, Ministerio de Cultura y Deporte, 2021.
+<a name="salgrado"></a>Salgrado, Augusto. “Lisbon and the Gran Armada.” <i>La Armada española de 1588 y la Contra Armada inglesa de 1589 [The Spanish Armada of 1588 and the English Counter Armada of 1589]</i>, 267–289. Madrid: Gobierno de España, Ministerio de Cultura y Deporte, 2021.
 
-Sánchez, Antonio. “Science by Regimento: Standardising Long-Distance Control and New Spaces of Knowledge in Early Modern Portuguese Cosmography.” Early Science and Medicine 21, no. 2/3 (2016): 133–55. http://www.jstor.org/stable/24760417.
+<a name="sanchez"></a>Sánchez, Antonio. “Science by Regimento: Standardising Long-Distance Control and New Spaces of Knowledge in Early Modern Portuguese Cosmography.” <i>Early Science and Medicine</i> 21, no. 2/3 (2016): 133–55. [Link to article](http://www.jstor.org/stable/24760417).
 
-Sandman, Alison. “40. Spanish Nautical Cartography in the Renaissance.” In The History of Cartography, Volume 3: Cartography in the European Renaissance, edited by David Woodward. Chicago, IL: University of Chicago Press, 2007. https://press.uchicago.edu/books/HOC/HOC_V3_Pt1/Volume3_Part1.html. 
+<a name="sandman"></a>Sandman, Alison. “40. Spanish Nautical Cartography in the Renaissance.” In <i>The History of Cartography, Volume 3: Cartography in the European Renaissance</i>, edited by David Woodward. Chicago, IL: University of Chicago Press, 2007. [Link to chapter](https://press.uchicago.edu/books/HOC/HOC_V3_Pt1/Volume3_Part1.html). 
 
-Sandman, Alison. “Controlling Knowledge: Navigation, Cartography, and Secrecy in the Early Modern Spanish Atlantic.” In Science and Empire in the Atlantic World, edited by James Delbourgo and Nicholas Dew, 31–52. New York, NY: Routledge, 2008.
+<a name="sandman2"></a>Sandman, Alison. “Controlling Knowledge: Navigation, Cartography, and Secrecy in the Early Modern Spanish Atlantic.” In <i>Science and Empire in the Atlantic World</i>, edited by James Delbourgo and Nicholas Dew, 31–52. New York, NY: Routledge, 2008.
 
-Sandman, Alison. “Educating Pilots: Licensing exams, Cosmography classes, and the Universidad de Mareantes in 16th century Spain.” In Fernando Oliveira e o Seu Tempo Humanismo e Arte de Navegar no Renascimento Europeu, 99–109. Ars Nautica. Cascais, Portugal: Patrimonia, 1999. 
+<a name="sandman3"></a>Sandman, Alison. “Educating Pilots: Licensing exams, Cosmography classes, and the Universidad de Mareantes in 16th century Spain.” In <i>Fernando Oliveira e o Seu Tempo Humanismo e Arte de Navegar no Renascimento Europeu</i>, 99–109. Ars Nautica. Cascais, Portugal: Patrimonia, 1999. 
 
 Savage-Smith, Emilie. “2. Celestial Mapping” In The History of Cartography, Volume 2, Book 1: Cartography in the Traditional Islamic and South Asian Societies, edited by J. B. Harley and David Woodward. Chicago, IL: University of Chicago Press, 1992. https://press.uchicago.edu/books/HOC/HOC_V2_B1/Volume2_Book1.html.
 
