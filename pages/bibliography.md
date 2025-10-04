@@ -146,7 +146,7 @@ permalink: /bibliography.html
 
 <a name="smith"></a>Smith, B.S. [Ben]. “An astrolabe from Passa Pau, Cape Verde Islands.” <i>The International Journal of Nautical Archaeology</i> 31, no. 1 (2002): 99–107. [Link to article](http://doi.org/10.1006/ijna.2002.1021).
 
-<a name="stade"></a>Stade, Hans. The Captivity of Hans Stade of Hesse, in <i>A.D. 1547–1555,  Among the Wild Tribes of Eastern Brazil</i> [originally <i>Warhaftige Historia und beschreibung eyner Landtschafft der Wilden Nacketen, Grimmigen Menschfresser-Leuthen in der Newenwelt America gelegen</i>, 1557]. Translated by Albert Tootal for the Haklyt Society. New York: Burt Franklin, 1874.
+<a name="stade"></a>Stade, Hans. <i>The Captivity of Hans Stade of Hesse, in A.D. 1547–1555,  Among the Wild Tribes of Eastern Brazil</i> [originally <i>Warhaftige Historia und beschreibung eyner Landtschafft der Wilden Nacketen, Grimmigen Menschfresser-Leuthen in der Newenwelt America gelegen</i>, 1557]. Translated by Albert Tootal for the Haklyt Society. New York: Burt Franklin, 1874.
 
 <a name="stimson"></a>Stimson, Alan. <i>The Mariner’s Astrolabe: A Survey of 48 Surviving Examples</i>. Lisbon, Portugal: Instituto de Investigação Científica Tropical, 1985. Facsimile of Revista da Universidade de Coimbra xxxii (1985): 573–605. [Link to book](https://www.google.com/books/edition/The_Mariner_s_Astrolabe/958abQqdt2sC).
 
