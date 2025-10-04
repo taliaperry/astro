@@ -92,7 +92,7 @@ permalink: /bibliography.html
 
 <a name="kerr"></a>Kerr, Robert, ed. “Chapter VI. History of the discovery and conquest of India by the Portuguese, between the years 1497 and 1525: from the original Portuguese of Herman Lopes de Castaneda.” In <i>A General History and Collection of Voyages and Travels, Volume II</i>. Edinburgh, Scotland: William Blackwood, 1824. Project Gutenberg. [Link to book](https://www.gutenberg.org/files/10803/10803-h/10803-h.htm).
 
-<a name="leibsohn"></a>Leibsohn, Dana and Barbara E. Mundy. Vistas: Visual Culture in Spanish America, 1520-1820. Copyright 2015. Accessed April 2022. [Link to website](http://www.fordham.edu/vistas).
+<a name="leibsohn"></a>Leibsohn, Dana and Barbara E. Mundy. <i>Vistas: Visual Culture in Spanish America, 1520-1820</i>. Copyright 2015. Accessed April 2022. [Link to website](http://www.fordham.edu/vistas).
 
 <a name="leitao"></a>Leitão, Henrique. “All Aboard!: Science and Ship Culture in Sixteenth-Century Oceanic Voyages.” <i>Early Science and Medicine</i> 21, no. 2/3 (2016): 113–32. [Link to article](http://www.jstor.org/stable/24760416).
 
