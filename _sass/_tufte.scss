@@ -155,7 +155,7 @@
         margin: 0 0 3em 0;
     }
 
-    figcaption, .figcaption {
+    figcaption {
         font-family: dinosaur, san-serif;
         float: right;
         clear: right;
@@ -166,6 +166,22 @@
         vertical-align: baseline;
         position: relative;
         display: inline-block;
+    }
+
+        @media (max-width: 760px)  {
+        .figcaption {
+        font-family: dinosaur, san-serif;
+        float: right;
+        clear: right;
+        margin-top: 0;
+        margin-bottom: 0;
+        font-size: 1.1rem;
+        line-height: 1.6;
+        vertical-align: baseline;
+        position: relative;
+        display: inline-block;
+    }
+        
     }
 
     figure.fullwidth figcaption {
