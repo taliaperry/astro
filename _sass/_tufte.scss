@@ -201,6 +201,13 @@
         font-family: dinosaur, san-serif;
         background: $info; /* delete me - just for testing */
     }
+    
+    @media (min-width: 760px) {
+    .megawide img {width: 100%}
+    figure.megawide figcaption {
+        margin-right: 24%;
+    }
+    }
 
     .sidenote,
     .marginnote {
