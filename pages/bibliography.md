@@ -36,15 +36,17 @@ permalink: /bibliography.html
 
 <a name="budsberg"></a>Budsberg, Nicholas, James Jobling, and Filipe Castro. “The Rio Grande Do Norte Astrolabe.” <i>International Journal of Historical Archaeology</i> 20, no. 2 (2016): 405–21. [Link to article](http://www.jstor.org/stable/26174265).
 
-<a name="castro"></a>Castro, Filipe, James Jobling, Nicholas Budsberg, Brad Loewen, Gaelle Dieulefet. Marine Astrolabes Catalogue. ShipLAB Report 16.3, June 2020.
+<a name="castro"></a>Castro, Filipe, James Jobling, Nicholas Budsberg, Brad Loewen, Gaelle Dieulefet. <i>Marine Astrolabes Catalogue</i>. ShipLAB Report 16.3, June 2020.
 
 <a name="castro2"></a>Castro, Filipe. “The Pepper Wreck: Nossa Senhora dos Mártires, Lisbon, Portugal.” In <i>Beneath the Seven Seas: Adventures with the Institute of Nautical Archaeology</i>, edited by George F. Bass. London: Thames & Hudson Ltd., 2005.
+
+<a name="cervantes"></a>Cervantes Saavedra, Miguel de. <i>Don Quixote</i> [1605, 1615], trans. John Ormsby (Gutenberg, 1997, eBook #996). [Link to book](https://www.gutenberg.org/ebooks/996). Spanish edition (Gutenberg, 1999, eBook #2000).
 
 <a name="collins"></a>Collins, Edward. “Interactions of Portuguese artisanal culture in the maritime enterprise of 16th-century Seville.” <i>Centaurus</i> (August 2018): 203–215. [Link to article](https://doi.org/10.1111/1600-0498.12188).
 
 <a name="collins2"></a>Collins, Edward. “Portuguese pilots at the Casa de la Contratación and the Examenes de Pilotos.” <i>The International Journal of Maritime History</i> 26(2) (2014): 179–192. [Link to article](https://doi.org/10.1177/0843871414527399).
 
-<a name="cortes"></a>Cortés, Martín. <i>Breve compendio de la sphera y de la Arte de navegar</i> (Seville, 1551). Facsimile. Valladolid, Spain: Editorial Maxtor, 2003.
+<a name="cortes"></a>Cortés, Martín. <i>Breve compendio de la sphera y de la Arte de navegar</i> (Seville, 1551). Facsimile. Valladolid, Spain: Editorial Maxtor, 2003. [Link to object](https://artsandculture.google.com/asset/brief-compendium-of-the-earth-and-the-art-of-navigation-mart%C3%ADn-cort%C3%A9s-y-alb%C3%A1car/RQFHedCmKgFVzA?hl=es).
 
 <a name="cummins"></a>Cummins, Neil. “Lifespans of the European Elite, 800–1800.” <i>The Journal of Economic History</i> 77, no 2 (2017): 406–39. [Link to article](https://doi.org/10.1017/S0022050717000468).
 
@@ -78,7 +80,9 @@ permalink: /bibliography.html
 
 <a name="hakluyt"></a>Hakluyt Society, ed. <i>A Journal of the First Voyage of Vasco Da Gama, 1497–1499</i>. Translated by E.G. Ravenstein. New York, NY: Burt Franklin, 2014. Project Gutenberg. [Link to book](https://www.gutenberg.org/files/46440/46440-h/46440-h.htm).
 
-<a name="hakluyt2"></a>Hakluyt Society, ed. <i>The Voyages of Pedro Àlvares Cabral to Brazil and India</i>, translated by William Brooks Greenlee. London: 1938.
+<a name="hakluyt2"></a>Hakluyt Society, ed. <i>The Voyages of Pedro Àlvares Cabral to Brazil and India</i>, translated by William Brooks Greenlee. London: 1938. [Link to book](https://archive.org/details/in.gov.ignca.1656).
+
+<a name="hakluyt3"></a>Hakluyt Society, ed. <i>Voyages of Pedro Fernandez de Quiros, 1595 to 1606</i>, translated by Sir Clements Markham. London: 1904. [Link to book](https://archive.org/details/voyagesofpedrofe01queiuoft).
 
 <a name="harding"></a>Harding, Clarence Henry. <i>Trade and Navigation Between Spain and the Indies in the Time of the Hapsburgs</i>. Cambridge, MA: Harvard University Press, 1918. [Link to book](https://www.google.com/books/edition/Trade_and_Navigation_Between_Spain_and_t/Ttw9AQAAMAAJ?hl=en&gbpv=0).
 
@@ -104,7 +108,7 @@ permalink: /bibliography.html
 
 <a name="mearns"></a>Mearns, D.L.,  J.M. Warnett, and M.A. Williams. “An Early Portuguese Mariner's Astrolabe from the Sodré Wreck-site, Al Hallaniyah, Oman.” <i>International Journal of Nautical Archaeology</i>, 48 (2019): 495-506. [Link to article](https://doi.org/10.1111/1095-9270.12353).
 
-<a name="munro"></a>Munro, John H. “ ‘Money, prices, wages, and ‘profit inflation’ in Spain, the southern Netherlands, and England during the price revolution era, ca. 1520– ca. 1650.” <i>História e Economia: Revista Interdisciplinar</i> 4 (2008): 13–71.
+<a name="munro"></a>Munro, John H. “Money, prices, wages, and ‘profit inflation’ in Spain, the southern Netherlands, and England during the price revolution era, ca. 1520– ca. 1650.” <i>História e Economia: Revista Interdisciplinar</i> 4 (2008): 13–71.
 
 <a name="oliveira"></a>Oliveira, Simão de. <i>Arte de navegar</i>. Lisbon: Pedro Crasbeeck, 1606. [Link to book](https://purl.pt/20845).
 
@@ -116,7 +120,7 @@ permalink: /bibliography.html
 
 <a name="peng"></a>Peng, Austin. “Bonze vs Brass.” DEK On-Demand Manufacturing. Published December 20, 2020. Accessed April 2022. [Link to website](https://www.dekmake.com/bronze-vs-brass/).
 
-<a name="philadelphamuseum"></a>Philadelphia Museum of Art. “Chemical Finishing Techniques.” Accessed April 2022. [Link to website](https://www.philamuseum.org/booklets/7_42_72_1.html).
+<a name="philadelphiamuseum"></a>Philadelphia Museum of Art. “Chemical Finishing Techniques.” Accessed April 2022. [Link to website](https://www.philamuseum.org/booklets/7_42_72_1.html).
 
 <a name="portuondo"></a>Portuondo, Maria M. “Chapter 7.  Cosmography Dissolves.” In <i>Secret Science: Spanish Cosmography and the New World</i>. Chicago, IL: University of Chicago Press, 2009. 
 
@@ -134,7 +138,7 @@ permalink: /bibliography.html
 
 <a name="salgrado"></a>Salgrado, Augusto. “Lisbon and the Gran Armada.” <i>La Armada española de 1588 y la Contra Armada inglesa de 1589 [The Spanish Armada of 1588 and the English Counter Armada of 1589]</i>, 267–289. Madrid: Gobierno de España, Ministerio de Cultura y Deporte, 2021.
 
-<a name="sanchez"></a>Sánchez, Antonio. “Science by Regimento: Standardising Long-Distance Control and New Spaces of Knowledge in Early Modern Portuguese Cosmography.” <i>Early Science and Medicine</i> 21, no. 2/3 (2016): 133–55. [Link to article](http://www.jstor.org/stable/24760417).
+<a name="sanchez"></a>Sánchez, Antonio. “Science by Regimento: Standardising Long-Distance Control and New Spaces of Knowledge in Early Modern Portuguese Cosmography.” <i>Early Science and Medicine</i> 21, no. 2/3 (2016): 133–155. [Link to article](http://www.jstor.org/stable/24760417).
 
 <a name="sandman"></a>Sandman, Alison. “40. Spanish Nautical Cartography in the Renaissance.” In <i>The History of Cartography, Volume 3: Cartography in the European Renaissance</i>, edited by David Woodward. Chicago, IL: University of Chicago Press, 2007. [Link to chapter](https://press.uchicago.edu/books/HOC/HOC_V3_Pt1/Volume3_Part1.html). 
 
@@ -142,7 +146,7 @@ permalink: /bibliography.html
 
 <a name="sandman3"></a>Sandman, Alison. “Educating Pilots: Licensing exams, Cosmography classes, and the Universidad de Mareantes in 16th century Spain.” In <i>Fernando Oliveira e o Seu Tempo Humanismo e Arte de Navegar no Renascimento Europeu</i>, 99–109. Ars Nautica. Cascais, Portugal: Patrimonia, 1999. 
 
-<a name="savage-smith"></a>Savage-Smith, Emilie. “2. Celestial Mapping.” In <i>The History of Cartography, Volume 2, Book 1: Cartography in the Traditional Islamic and South Asian Societies</i>, edited by J. B. Harley and David Woodward. Chicago, IL: University of Chicago Press, 1992. [Link to chapter](https://press.uchicago.edu/books/HOC/HOC_V2_B1/Volume2_Book1.html).
+<a name="savagesmith"></a>Savage-Smith, Emilie. “2. Celestial Mapping.” In <i>The History of Cartography, Volume 2, Book 1: Cartography in the Traditional Islamic and South Asian Societies</i>, edited by J. B. Harley and David Woodward. Chicago, IL: University of Chicago Press, 1992. [Link to chapter](https://press.uchicago.edu/books/HOC/HOC_V2_B1/Volume2_Book1.html).
 
 <a name="silva"></a>Silva, Nuno Vassallo. <i>A Herança de Rauluchantim [The heritage of Rauluchantim]</i>. Lisbon: Museu de São Roque, 1996.
 
@@ -152,7 +156,7 @@ permalink: /bibliography.html
 
 <a name="stimson"></a>Stimson, Alan. <i>The Mariner’s Astrolabe: A Survey of 48 Surviving Examples</i>. Lisbon, Portugal: Instituto de Investigação Científica Tropical, 1985. Facsimile of Revista da Universidade de Coimbra xxxii (1985): 573–605. [Link to book](https://www.google.com/books/edition/The_Mariner_s_Astrolabe/958abQqdt2sC).
 
-<a name="tuttle"></a>Tuttle, Patricia. “An Investigation of The Renaissance Casting Techniques of Incuse-Reverse and Double-Sided Medals.” <i>Studies in the History of Art</i> 21 (1987): 205–12. [Link to article](http://www.jstor.org/stable/42620183).
+<a name="tuttle"></a>Tuttle, Patricia. “An Investigation of The Renaissance Casting Techniques of Incuse-Reverse and Double-Sided Medals.” <i>Studies in the History of Art</i> 21 (1987): 205–212. [Link to article](http://www.jstor.org/stable/42620183).
 
 <a name="vanlinschoten"></a>Van Linschoten, Jan Huyghen. “The Pay of Officers and Men [1594].” In <i>Jan Huyghen van Linschoten: Voyage to Goa and Back 1583–1592</i>. New Delhi, India: Asian Education Services, 2004. 
 
