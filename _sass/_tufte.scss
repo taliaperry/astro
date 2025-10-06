@@ -1,14 +1,16 @@
 
 /* Tufte CSS styles */
 .tufte-content {
-
+    
     font-family: chaparral-pro, serif;
-
+    
+    /* comment out test
     padding-left: 12.5%;
+    
     @media (max-width: 760px)  {
         padding-left:3%
-        
-    }
+    } */
+    
     max-width: 1400px;
     counter-reset: sidenote-counter;
 
@@ -200,8 +202,8 @@
     .marginnote {
         float: right;
         clear: right;
-        margin-right: -60%;
-        width: 50%;
+        margin-right: -75%; /* was -60% test change */
+        width: 65%; /* was 50% test change */
         margin-top: 0.3rem;
         margin-bottom: 0;
         font-family: dinosaur, san-serif;
@@ -288,11 +290,11 @@
     }
 
     pre.fullwidth > code {
-        width: 90%;
+        width: 100%;
     }
 
     .fullwidth {
-        max-width: 90%;
+        /* test delete max-width: 90%; */
         clear:both;
     }
 
@@ -360,7 +362,7 @@
         }
 
         figure {
-            max-width: 90%;
+            test delete max-width: 100%;
         }
 
         figcaption,
@@ -398,7 +400,7 @@
             float: left;
             /* left: 3rem; test */
             clear: both;
-            width: 90%;
+            width: 100%; /* test 90% */
             margin: 2em 10% 2em 0;
             vertical-align: baseline;
             position: relative;
