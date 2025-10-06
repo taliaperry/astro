@@ -152,9 +152,6 @@
         font: inherit;
         vertical-align: baseline;
         max-width: 55%;
-            @media (max-width: 760px)  {
-        max-width: 100%;
-    }
         -webkit-margin-start: 0;
         -webkit-margin-end: 0;
         margin: 0 0 3em 0;
@@ -364,8 +361,8 @@
             width: 90%;
         }
 
-        figure {
-            /* test delete max-width: 100%; */
+        figure.fullwidth {
+            max-width: 100%;
         }
 
         figcaption,
