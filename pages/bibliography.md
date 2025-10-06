@@ -102,7 +102,7 @@ permalink: /bibliography.html
 
 <a name="long"></a>Long, Pamela O. “The Openness of Knowledge: An Ideal and Its Context in 16th-Century Writings on Mining and Metallurgy” In <i>The History of Science in a World of Readers</i>. Berlin: Max-Planck-Gesellschaft zur Förderung der Wissenschaften, 2019. [Link to chapter](https://doi.org/10.34663/9783945561430-02).
 
-<a name="malcom"></a>Malcom, Corey. “The 1622 Tierra Firme Fleet: An Account of the Disaster and the People.” Mel Fisher Maritime Museum Series of Occasional Papers in <i>Maritime Heritage Research</i> no. 1 (December 2019). 
+<a name="malcom"></a>Malcom, Corey. “The 1622 <i>Tierra Firme</i> Fleet: An Account of the Disaster and the People.” Mel Fisher Maritime Museum Series of Occasional Papers in <i>Maritime Heritage Research</i> no. 1 (December 2019). 
 
 <a name="mathewson"></a>Mathewson, Duncan. <i>Treasure of the Atocha</i>. New York: Pisces Books, 1986.
 
