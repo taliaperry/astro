@@ -27,11 +27,14 @@ text-decoration: none;}
 .inversecolorscheme footer {
   background: $success;}
 
-.sun {
+.sunny {
     text-align: end;
     font-size: 4em;
     margin-right: .5em;
     font-family: chaparral-pro, serif;
+}
+
+.sun {
     font-feature-settings: "ornm";}
 .inversecolorscheme .sun a {
 color:$warning;
