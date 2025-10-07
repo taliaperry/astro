@@ -29,17 +29,15 @@ text-decoration: none;}
 
 .inversecolorscheme .sunny {
     text-align: end;
-    font-size: 4em;
     margin-right: .5em;
-    font-family: chaparral-pro, serif;
-}
-
+    font-family: chaparral-pro, serif;}
 .inversecolorscheme .sunny .sun {
-    font-feature-settings: "ornm";}
-.inversecolorscheme a.sun {
+    font-feature-settings: "ornm";
+    font-size: 4em;}
+.inversecolorscheme .sunny a {
 color:$warning;
 text-decoration: none;}
-.inversecolorscheme .sun a:hover.sun {
+.inversecolorscheme .sunny a:hover {
 color:$danger;
 text-decoration: none;}
 
